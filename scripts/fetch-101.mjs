@@ -25,6 +25,8 @@ const DATA_DIR = join(ROOT, 'data');
 const ENDPOINT = 'https://mlol.qt.qq.com/go/battle_info/odp_proxy/fuwen_aram_hero_rank_v2';
 const PAGE_URL = 'https://101.qq.com/#/rankings/hextech';
 const EXPECTED_ROWS = 173;
+const RESG_VERSION = '16.22';
+const RESG_URL = `https://cdn.resg.top/api/v1/versions/${RESG_VERSION}/champions.js`;
 
 function shanghaiDate(offsetDays = 0) {
   const d = new Date(Date.now() - offsetDays * 86_400_000);
@@ -140,6 +142,39 @@ async function fetchForDate(date) {
   return { date, champions };
 }
 
+async function fetchResgFallback() {
+  const res = await fetch(RESG_URL, {
+    headers: {
+      accept: 'text/javascript,application/javascript,text/plain,*/*',
+      referer: 'https://www.resg.top/',
+      'user-agent':
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+    },
+    signal: AbortSignal.timeout(30_000),
+  });
+  if (!res.ok) {
+    throw new Error(`RESG HTTP ${res.status}`);
+  }
+  const text = await res.text();
+  const moduleJson = JSON.parse(text.replace(/^export\s+default\s+/, ''));
+  const items = Array.isArray(moduleJson.items) ? moduleJson.items : [];
+  const rows = items
+    .filter((item) => Number.isFinite(Number(item.id)) && Number(item.id) > 0)
+    .map((item, index) => ({
+      championId: Number(item.id),
+      rank: index + 1,
+      rankChange: '',
+      winRate: Number(item.wr),
+      pickRate: Number(item.pr) || 0,
+      topPartners: [],
+      items: [],
+    }));
+  if (rows.length < EXPECTED_ROWS) {
+    throw new Error(`RESG returned too few champions: ${rows.length}`);
+  }
+  return { date: `resg-${RESG_VERSION}`, champions: rows };
+}
+
 async function main() {
   let result = null;
   let lastError = null;
@@ -162,14 +197,27 @@ async function main() {
   }
 
   if (!result) {
-    throw new Error(`No usable 101 data in the last 8 days. Last error: ${lastError?.message || 'none'}`);
+    console.warn(`[101] no usable data in the last 8 days: ${lastError?.message || 'none'}`);
+    try {
+      result = await fetchResgFallback();
+      console.log(`[RESG] fallback ${RESG_VERSION}: ${result.champions.length} champions`);
+    } catch (error) {
+      console.warn(`[RESG] fallback failed: ${error.message}`);
+    }
   }
 
+  if (!result) {
+    // Do not fail the scheduled workflow; keep the last committed snapshot.
+    console.warn('[data] no source available; keeping existing data/latest.json');
+    return;
+  }
+
+  const viaResg = String(result.date).startsWith('resg-');
   const payload = {
     schema: 1,
-    source: '101.qq.com',
-    sourceUrl: PAGE_URL,
-    endpoint: ENDPOINT,
+    source: viaResg ? 'resg.top (fallback)' : '101.qq.com',
+    sourceUrl: viaResg ? 'https://www.resg.top/' : PAGE_URL,
+    endpoint: viaResg ? RESG_URL : ENDPOINT,
     region: 'CN',
     date: result.date,
     fetchedAt: new Date().toISOString(),

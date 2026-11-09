@@ -2,10 +2,10 @@
   "schema": 1,
   "source": "101.qq.com",
   "region": "CN",
-  "date": "20261108",
+  "date": "20261109",
   "count": 173,
-  "sha256": "b5be66d54b9c44af4eb27cf4779da5b86049202d83bb725c98f70c31e5051d79",
-  "bytes": 107777,
-  "generatedAt": "2026-11-09T15:57:41.557Z",
+  "sha256": "52365e716c540ab1975d7da1c1be34ae3611f08431a55d1e782cc35b085c1411",
+  "bytes": 107742,
+  "generatedAt": "2026-11-09T20:50:17.614Z",
   "latest": "data/latest.json"
 }

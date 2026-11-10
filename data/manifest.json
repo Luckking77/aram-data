@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "source": "resg.top (fallback)",
+  "source": "101.qq.com",
   "region": "CN",
-  "date": "resg-16.22",
+  "date": "20261109",
   "count": 173,
-  "sha256": "b2f978035cbb2e8bd314a4b688655a22f63e8787392b65f9347e49fd801c48c3",
-  "bytes": 29485,
-  "generatedAt": "2026-11-10T00:57:39.526Z",
+  "sha256": "1123747b5361ec00f4e3825190783508e7065b49a652401ad149e7cabf4634a3",
+  "bytes": 107742,
+  "generatedAt": "2026-11-10T05:51:12.596Z",
   "latest": "data/latest.json"
 }

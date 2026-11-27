@@ -4,33 +4,33 @@
   "sourceUrl": "https://101.qq.com/#/rankings/hextech",
   "endpoint": "https://mlol.qt.qq.com/go/battle_info/odp_proxy/fuwen_aram_hero_rank_v2",
   "region": "CN",
-  "date": "20261126",
-  "fetchedAt": "2026-11-27T15:58:38.760Z",
+  "date": "20261127",
+  "fetchedAt": "2026-11-27T20:54:52.750Z",
   "count": 173,
   "champions": [
     {
       "championId": 223,
       "rank": 1,
       "rankChange": "未变化",
-      "winRate": 0.5407,
-      "pickRate": 0.1547,
+      "winRate": 0.5414,
+      "pickRate": 0.1526,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0599,
-          "winRate": 0.6101,
+          "pickRate": 0.0593,
+          "winRate": 0.6097,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0699,
-          "winRate": 0.5715,
+          "championId": 157,
+          "pickRate": 0.0543,
+          "winRate": 0.6092,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0546,
-          "winRate": 0.6093,
+          "championId": 17,
+          "pickRate": 0.0694,
+          "winRate": 0.572,
           "rank": 3
         }
       ],
@@ -43,26 +43,26 @@
     {
       "championId": 4,
       "rank": 2,
-      "rankChange": "上升1位",
-      "winRate": 0.5708,
-      "pickRate": 0.1371,
+      "rankChange": "未变化",
+      "winRate": 0.5701,
+      "pickRate": 0.1353,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0555,
-          "winRate": 0.6595,
+          "pickRate": 0.0552,
+          "winRate": 0.6589,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0676,
-          "winRate": 0.6101,
+          "pickRate": 0.0669,
+          "winRate": 0.6097,
           "rank": 2
         },
         {
-          "championId": 11,
-          "pickRate": 0.0492,
-          "winRate": 0.6393,
+          "championId": 236,
+          "pickRate": 0.0661,
+          "winRate": 0.6041,
           "rank": 3
         }
       ],
@@ -75,26 +75,26 @@
     {
       "championId": 17,
       "rank": 3,
-      "rankChange": "下降1位",
-      "winRate": 0.5359,
-      "pickRate": 0.1552,
+      "rankChange": "未变化",
+      "winRate": 0.536,
+      "pickRate": 0.1537,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0562,
-          "winRate": 0.6256,
+          "pickRate": 0.0559,
+          "winRate": 0.6259,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0696,
-          "winRate": 0.5715,
+          "pickRate": 0.0689,
+          "winRate": 0.572,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0609,
-          "winRate": 0.5929,
+          "pickRate": 0.0603,
+          "winRate": 0.5924,
           "rank": 3
         }
       ],
@@ -108,25 +108,25 @@
       "championId": 157,
       "rank": 4,
       "rankChange": "未变化",
-      "winRate": 0.5815,
-      "pickRate": 0.1267,
+      "winRate": 0.5817,
+      "pickRate": 0.1256,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0689,
-          "winRate": 0.6255,
+          "pickRate": 0.0684,
+          "winRate": 0.6259,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0601,
-          "winRate": 0.6595,
+          "pickRate": 0.0594,
+          "winRate": 0.6589,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0667,
-          "winRate": 0.6093,
+          "pickRate": 0.066,
+          "winRate": 0.6092,
           "rank": 3
         }
       ],
@@ -140,25 +140,25 @@
       "championId": 11,
       "rank": 5,
       "rankChange": "未变化",
-      "winRate": 0.5486,
-      "pickRate": 0.1159,
+      "winRate": 0.5471,
+      "pickRate": 0.1152,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0661,
-          "winRate": 0.6097,
+          "pickRate": 0.0654,
+          "winRate": 0.6084,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0583,
-          "winRate": 0.6393,
+          "pickRate": 0.0575,
+          "winRate": 0.6379,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0499,
-          "winRate": 0.6092,
+          "pickRate": 0.0496,
+          "winRate": 0.6075,
           "rank": 3
         }
       ],
@@ -172,25 +172,25 @@
       "championId": 25,
       "rank": 6,
       "rankChange": "未变化",
-      "winRate": 0.5364,
-      "pickRate": 0.1075,
+      "winRate": 0.5368,
+      "pickRate": 0.1072,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0685,
-          "winRate": 0.5842,
+          "pickRate": 0.0677,
+          "winRate": 0.585,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0522,
-          "winRate": 0.6287,
+          "pickRate": 0.0518,
+          "winRate": 0.6295,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0553,
-          "winRate": 0.5894,
+          "pickRate": 0.0546,
+          "winRate": 0.5893,
           "rank": 3
         }
       ],
@@ -204,25 +204,25 @@
       "championId": 5,
       "rank": 7,
       "rankChange": "未变化",
-      "winRate": 0.5557,
-      "pickRate": 0.0959,
+      "winRate": 0.5551,
+      "pickRate": 0.0958,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0627,
-          "winRate": 0.5996,
+          "pickRate": 0.062,
+          "winRate": 0.5995,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0555,
-          "winRate": 0.6355,
+          "pickRate": 0.0547,
+          "winRate": 0.6339,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0492,
-          "winRate": 0.6197,
+          "pickRate": 0.0488,
+          "winRate": 0.6198,
           "rank": 3
         }
       ],
@@ -236,57 +236,57 @@
       "championId": 236,
       "rank": 8,
       "rankChange": "未变化",
-      "winRate": 0.5209,
-      "pickRate": 0.1522,
+      "winRate": 0.5213,
+      "pickRate": 0.1506,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0601,
-          "winRate": 0.6043,
+          "pickRate": 0.0594,
+          "winRate": 0.6041,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0695,
-          "winRate": 0.5692,
+          "pickRate": 0.0688,
+          "winRate": 0.5701,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0658,
-          "winRate": 0.5694,
+          "pickRate": 0.065,
+          "winRate": 0.5704,
           "rank": 3
         }
       ],
       "items": [
         3123,
         1092,
-        3018
+        1336
       ]
     },
     {
       "championId": 777,
       "rank": 9,
-      "rankChange": "上升2位",
-      "winRate": 0.527,
-      "pickRate": 0.1013,
+      "rankChange": "未变化",
+      "winRate": 0.5276,
+      "pickRate": 0.1007,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0651,
-          "winRate": 0.573,
+          "pickRate": 0.0645,
+          "winRate": 0.5738,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0603,
-          "winRate": 0.5879,
+          "pickRate": 0.0596,
+          "winRate": 0.5885,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0578,
-          "winRate": 0.6044,
+          "pickRate": 0.0571,
+          "winRate": 0.6046,
           "rank": 3
         }
       ],
@@ -299,26 +299,26 @@
     {
       "championId": 114,
       "rank": 10,
-      "rankChange": "上升2位",
-      "winRate": 0.5651,
-      "pickRate": 0.0756,
+      "rankChange": "未变化",
+      "winRate": 0.5638,
+      "pickRate": 0.076,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0663,
-          "winRate": 0.6066,
+          "pickRate": 0.0657,
+          "winRate": 0.6059,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0591,
-          "winRate": 0.6404,
+          "pickRate": 0.0583,
+          "winRate": 0.6386,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0469,
-          "winRate": 0.6261,
+          "pickRate": 0.0465,
+          "winRate": 0.625,
           "rank": 3
         }
       ],
@@ -331,57 +331,57 @@
     {
       "championId": 104,
       "rank": 11,
-      "rankChange": "下降2位",
-      "winRate": 0.5183,
-      "pickRate": 0.122,
+      "rankChange": "未变化",
+      "winRate": 0.5177,
+      "pickRate": 0.1213,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0672,
-          "winRate": 0.5715,
+          "pickRate": 0.0666,
+          "winRate": 0.5714,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0596,
-          "winRate": 0.6056,
+          "pickRate": 0.0589,
+          "winRate": 0.6041,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0634,
-          "winRate": 0.571,
+          "pickRate": 0.0626,
+          "winRate": 0.5706,
           "rank": 3
         }
       ],
       "items": [
         3123,
-        1134,
-        1077
+        1336,
+        1134
       ]
     },
     {
       "championId": 13,
       "rank": 12,
-      "rankChange": "下降2位",
-      "winRate": 0.5215,
-      "pickRate": 0.1083,
+      "rankChange": "未变化",
+      "winRate": 0.5218,
+      "pickRate": 0.1078,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0686,
-          "winRate": 0.5541,
+          "pickRate": 0.0678,
+          "winRate": 0.5547,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0547,
-          "winRate": 0.5854,
+          "pickRate": 0.054,
+          "winRate": 0.5847,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0532,
+          "pickRate": 0.0528,
           "winRate": 0.5982,
           "rank": 3
         }
@@ -395,26 +395,26 @@
     {
       "championId": 245,
       "rank": 13,
-      "rankChange": "上升2位",
-      "winRate": 0.5244,
-      "pickRate": 0.0914,
+      "rankChange": "未变化",
+      "winRate": 0.5247,
+      "pickRate": 0.0916,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0528,
+          "pickRate": 0.0524,
           "winRate": 0.5987,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0584,
-          "winRate": 0.5771,
+          "pickRate": 0.0577,
+          "winRate": 0.5759,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0617,
-          "winRate": 0.5586,
+          "pickRate": 0.0609,
+          "winRate": 0.5595,
           "rank": 3
         }
       ],
@@ -427,26 +427,26 @@
     {
       "championId": 876,
       "rank": 14,
-      "rankChange": "下降1位",
-      "winRate": 0.531,
-      "pickRate": 0.0804,
+      "rankChange": "未变化",
+      "winRate": 0.5313,
+      "pickRate": 0.0801,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0516,
-          "winRate": 0.6132,
+          "pickRate": 0.0512,
+          "winRate": 0.6137,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0665,
-          "winRate": 0.567,
+          "pickRate": 0.0659,
+          "winRate": 0.5677,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0546,
-          "winRate": 0.5899,
+          "pickRate": 0.054,
+          "winRate": 0.5888,
           "rank": 3
         }
       ],
@@ -459,26 +459,26 @@
     {
       "championId": 51,
       "rank": 15,
-      "rankChange": "下降1位",
-      "winRate": 0.5051,
-      "pickRate": 0.1525,
+      "rankChange": "未变化",
+      "winRate": 0.5046,
+      "pickRate": 0.1512,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0698,
-          "winRate": 0.5508,
+          "championId": 223,
+          "pickRate": 0.0699,
+          "winRate": 0.5495,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0625,
-          "winRate": 0.578,
+          "championId": 17,
+          "pickRate": 0.0692,
+          "winRate": 0.5504,
           "rank": 2
         },
         {
-          "championId": 223,
-          "pickRate": 0.0708,
-          "winRate": 0.5491,
+          "championId": 4,
+          "pickRate": 0.0618,
+          "winRate": 0.5764,
           "rank": 3
         }
       ],
@@ -491,26 +491,26 @@
     {
       "championId": 875,
       "rank": 16,
-      "rankChange": "上升1位",
-      "winRate": 0.5079,
-      "pickRate": 0.1086,
+      "rankChange": "未变化",
+      "winRate": 0.5086,
+      "pickRate": 0.1081,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0645,
-          "winRate": 0.5534,
+          "pickRate": 0.0639,
+          "winRate": 0.5546,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0568,
-          "winRate": 0.5822,
+          "pickRate": 0.056,
+          "winRate": 0.5824,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0501,
-          "winRate": 0.5828,
+          "pickRate": 0.0496,
+          "winRate": 0.5837,
           "rank": 3
         }
       ],
@@ -523,26 +523,26 @@
     {
       "championId": 42,
       "rank": 17,
-      "rankChange": "下降1位",
-      "winRate": 0.5237,
-      "pickRate": 0.0837,
+      "rankChange": "未变化",
+      "winRate": 0.5234,
+      "pickRate": 0.0842,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0575,
-          "winRate": 0.6037,
+          "pickRate": 0.0567,
+          "winRate": 0.6028,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0631,
-          "winRate": 0.5739,
+          "pickRate": 0.0621,
+          "winRate": 0.5751,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0637,
-          "winRate": 0.5686,
+          "pickRate": 0.0631,
+          "winRate": 0.5685,
           "rank": 3
         }
       ],
@@ -556,25 +556,25 @@
       "championId": 36,
       "rank": 18,
       "rankChange": "未变化",
-      "winRate": 0.5188,
-      "pickRate": 0.0885,
+      "winRate": 0.5185,
+      "pickRate": 0.0882,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0635,
-          "winRate": 0.5632,
+          "pickRate": 0.0628,
+          "winRate": 0.5631,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0553,
-          "winRate": 0.595,
+          "pickRate": 0.0545,
+          "winRate": 0.5948,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0479,
-          "winRate": 0.5898,
+          "pickRate": 0.0476,
+          "winRate": 0.5902,
           "rank": 3
         }
       ],
@@ -588,25 +588,25 @@
       "championId": 10,
       "rank": 19,
       "rankChange": "未变化",
-      "winRate": 0.5433,
-      "pickRate": 0.0641,
+      "winRate": 0.5437,
+      "pickRate": 0.0645,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0579,
-          "winRate": 0.593,
+          "pickRate": 0.0573,
+          "winRate": 0.5915,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0602,
-          "winRate": 0.5802,
+          "championId": 157,
+          "pickRate": 0.0523,
+          "winRate": 0.6077,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0527,
-          "winRate": 0.6074,
+          "championId": 17,
+          "pickRate": 0.0596,
+          "winRate": 0.5811,
           "rank": 3
         }
       ],
@@ -617,59 +617,59 @@
       ]
     },
     {
-      "championId": 141,
+      "championId": 21,
       "rank": 20,
-      "rankChange": "上升1位",
-      "winRate": 0.522,
-      "pickRate": 0.0771,
+      "rankChange": "上升2位",
+      "winRate": 0.5013,
+      "pickRate": 0.1482,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0637,
-          "winRate": 0.5712,
+          "championId": 157,
+          "pickRate": 0.055,
+          "winRate": 0.5945,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0565,
-          "winRate": 0.6053,
+          "championId": 223,
+          "pickRate": 0.0648,
+          "winRate": 0.5658,
           "rank": 2
         },
         {
-          "championId": 223,
-          "pickRate": 0.0601,
-          "winRate": 0.5655,
+          "championId": 4,
+          "pickRate": 0.0582,
+          "winRate": 0.5615,
           "rank": 3
         }
       ],
       "items": [
-        1214,
-        1019,
-        2083
+        1113,
+        1373,
+        1092
       ]
     },
     {
       "championId": 119,
       "rank": 21,
-      "rankChange": "下降1位",
-      "winRate": 0.5161,
+      "rankChange": "未变化",
+      "winRate": 0.516,
       "pickRate": 0.0903,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0629,
-          "winRate": 0.5722,
+          "pickRate": 0.0621,
+          "winRate": 0.5729,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0588,
-          "winRate": 0.5986,
+          "pickRate": 0.0581,
+          "winRate": 0.5978,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0649,
+          "pickRate": 0.0643,
           "winRate": 0.568,
           "rank": 3
         }
@@ -681,60 +681,60 @@
       ]
     },
     {
-      "championId": 21,
+      "championId": 141,
       "rank": 22,
-      "rankChange": "未变化",
-      "winRate": 0.5004,
-      "pickRate": 0.1498,
+      "rankChange": "下降2位",
+      "winRate": 0.522,
+      "pickRate": 0.0772,
       "topPartners": [
         {
-          "championId": 223,
-          "pickRate": 0.0656,
-          "winRate": 0.5645,
+          "championId": 17,
+          "pickRate": 0.063,
+          "winRate": 0.5713,
           "rank": 1
         },
         {
-          "championId": 157,
-          "pickRate": 0.0555,
-          "winRate": 0.5931,
+          "championId": 4,
+          "pickRate": 0.0557,
+          "winRate": 0.6049,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0589,
-          "winRate": 0.5614,
+          "championId": 223,
+          "pickRate": 0.0592,
+          "winRate": 0.5663,
           "rank": 3
         }
       ],
       "items": [
-        1113,
-        1373,
-        1092
+        1214,
+        1019,
+        2083
       ]
     },
     {
       "championId": 67,
       "rank": 23,
       "rankChange": "未变化",
-      "winRate": 0.5057,
-      "pickRate": 0.0975,
+      "winRate": 0.5059,
+      "pickRate": 0.0972,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0571,
-          "winRate": 0.5828,
+          "pickRate": 0.0564,
+          "winRate": 0.5822,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0659,
-          "winRate": 0.5505,
+          "pickRate": 0.065,
+          "winRate": 0.5511,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0508,
-          "winRate": 0.5814,
+          "pickRate": 0.0504,
+          "winRate": 0.582,
           "rank": 3
         }
       ],
@@ -748,25 +748,25 @@
       "championId": 48,
       "rank": 24,
       "rankChange": "未变化",
-      "winRate": 0.5039,
-      "pickRate": 0.0953,
+      "winRate": 0.5044,
+      "pickRate": 0.0951,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0565,
-          "winRate": 0.5854,
+          "pickRate": 0.0558,
+          "winRate": 0.5851,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.053,
-          "winRate": 0.5841,
+          "pickRate": 0.0525,
+          "winRate": 0.5845,
           "rank": 2
         },
         {
-          "championId": 17,
-          "pickRate": 0.0624,
-          "winRate": 0.538,
+          "championId": 223,
+          "pickRate": 0.0603,
+          "winRate": 0.5404,
           "rank": 3
         }
       ],
@@ -777,60 +777,28 @@
       ]
     },
     {
-      "championId": 901,
-      "rank": 25,
-      "rankChange": "未变化",
-      "winRate": 0.4973,
-      "pickRate": 0.1275,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0659,
-          "winRate": 0.5709,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.053,
-          "winRate": 0.5722,
-          "rank": 2
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0672,
-          "winRate": 0.5442,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1092,
-        1048,
-        1336
-      ]
-    },
-    {
       "championId": 136,
-      "rank": 26,
-      "rankChange": "未变化",
-      "winRate": 0.4981,
-      "pickRate": 0.1245,
+      "rank": 25,
+      "rankChange": "上升1位",
+      "winRate": 0.4995,
+      "pickRate": 0.1224,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0698,
-          "winRate": 0.5503,
+          "pickRate": 0.0692,
+          "winRate": 0.5515,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0544,
-          "winRate": 0.5867,
+          "pickRate": 0.0541,
+          "winRate": 0.5879,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0552,
-          "winRate": 0.5521,
+          "pickRate": 0.0547,
+          "winRate": 0.5522,
           "rank": 3
         }
       ],
@@ -841,92 +809,60 @@
       ]
     },
     {
-      "championId": 23,
-      "rank": 27,
-      "rankChange": "上升1位",
-      "winRate": 0.5074,
-      "pickRate": 0.0734,
+      "championId": 901,
+      "rank": 26,
+      "rankChange": "下降1位",
+      "winRate": 0.4977,
+      "pickRate": 0.1266,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0633,
-          "winRate": 0.555,
+          "championId": 223,
+          "pickRate": 0.0649,
+          "winRate": 0.5724,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0565,
-          "winRate": 0.5844,
+          "championId": 157,
+          "pickRate": 0.0525,
+          "winRate": 0.5726,
           "rank": 2
         },
         {
-          "championId": 223,
-          "pickRate": 0.0587,
-          "winRate": 0.5467,
+          "championId": 17,
+          "pickRate": 0.0665,
+          "winRate": 0.5444,
           "rank": 3
         }
       ],
       "items": [
-        3131,
-        1071,
+        1092,
+        1048,
         1336
       ]
     },
     {
-      "championId": 412,
-      "rank": 28,
-      "rankChange": "上升2位",
-      "winRate": 0.5083,
-      "pickRate": 0.0711,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0545,
-          "winRate": 0.5833,
-          "rank": 1
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.0653,
-          "winRate": 0.5432,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0481,
-          "winRate": 0.5902,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3049,
-        1353,
-        3263
-      ]
-    },
-    {
       "championId": 147,
-      "rank": 29,
-      "rankChange": "未变化",
-      "winRate": 0.5121,
-      "pickRate": 0.0687,
+      "rank": 27,
+      "rankChange": "上升2位",
+      "winRate": 0.5124,
+      "pickRate": 0.0695,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.069,
-          "winRate": 0.56,
+          "pickRate": 0.0681,
+          "winRate": 0.5607,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0527,
-          "winRate": 0.6062,
+          "pickRate": 0.0521,
+          "winRate": 0.607,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0544,
-          "winRate": 0.5638,
+          "pickRate": 0.0536,
+          "winRate": 0.5639,
           "rank": 3
         }
       ],
@@ -937,27 +873,91 @@
       ]
     },
     {
-      "championId": 200,
-      "rank": 30,
-      "rankChange": "上升1位",
-      "winRate": 0.5512,
-      "pickRate": 0.0461,
+      "championId": 412,
+      "rank": 28,
+      "rankChange": "未变化",
+      "winRate": 0.5091,
+      "pickRate": 0.0715,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0597,
-          "winRate": 0.5997,
+          "championId": 4,
+          "pickRate": 0.0537,
+          "winRate": 0.5837,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0552,
-          "winRate": 0.6398,
+          "championId": 236,
+          "pickRate": 0.0646,
+          "winRate": 0.5442,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0489,
+          "pickRate": 0.0478,
+          "winRate": 0.5908,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3049,
+        1353,
+        3263
+      ]
+    },
+    {
+      "championId": 23,
+      "rank": 29,
+      "rankChange": "下降2位",
+      "winRate": 0.5075,
+      "pickRate": 0.0739,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.0626,
+          "winRate": 0.5556,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0556,
+          "winRate": 0.5841,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0466,
+          "winRate": 0.5745,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3131,
+        1071,
+        1336
+      ]
+    },
+    {
+      "championId": 200,
+      "rank": 30,
+      "rankChange": "未变化",
+      "winRate": 0.5513,
+      "pickRate": 0.0462,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.059,
+          "winRate": 0.5996,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0545,
+          "winRate": 0.639,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0485,
           "winRate": 0.6138,
           "rank": 3
         }
@@ -969,124 +969,28 @@
       ]
     },
     {
-      "championId": 41,
-      "rank": 31,
-      "rankChange": "下降4位",
-      "winRate": 0.4963,
-      "pickRate": 0.1109,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0633,
-          "winRate": 0.5599,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0658,
-          "winRate": 0.5427,
-          "rank": 2
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0586,
-          "winRate": 0.573,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3123,
-        3018,
-        1092
-      ]
-    },
-    {
-      "championId": 106,
-      "rank": 32,
-      "rankChange": "未变化",
-      "winRate": 0.5178,
-      "pickRate": 0.0629,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0538,
-          "winRate": 0.5855,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0489,
-          "winRate": 0.5894,
-          "rank": 2
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0604,
-          "winRate": 0.556,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1029,
-        3131,
-        1058
-      ]
-    },
-    {
-      "championId": 887,
-      "rank": 33,
-      "rankChange": "未变化",
-      "winRate": 0.5348,
-      "pickRate": 0.0483,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0554,
-          "winRate": 0.5999,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0474,
-          "winRate": 0.6079,
-          "rank": 2
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0638,
-          "winRate": 0.5643,
-          "rank": 3
-        }
-      ],
-      "items": [
-        2132,
-        1129,
-        1029
-      ]
-    },
-    {
       "championId": 63,
-      "rank": 34,
-      "rankChange": "未变化",
-      "winRate": 0.4946,
-      "pickRate": 0.1205,
+      "rank": 31,
+      "rankChange": "上升3位",
+      "winRate": 0.4952,
+      "pickRate": 0.12,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0715,
-          "winRate": 0.5497,
+          "pickRate": 0.0707,
+          "winRate": 0.551,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0537,
-          "winRate": 0.5922,
+          "pickRate": 0.0533,
+          "winRate": 0.5928,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0534,
-          "winRate": 0.5458,
+          "pickRate": 0.0526,
+          "winRate": 0.5452,
           "rank": 3
         }
       ],
@@ -1097,28 +1001,124 @@
       ]
     },
     {
+      "championId": 106,
+      "rank": 32,
+      "rankChange": "未变化",
+      "winRate": 0.5175,
+      "pickRate": 0.0637,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.053,
+          "winRate": 0.5847,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0483,
+          "winRate": 0.5896,
+          "rank": 2
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0585,
+          "winRate": 0.5586,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1029,
+        3131,
+        1058
+      ]
+    },
+    {
+      "championId": 41,
+      "rank": 33,
+      "rankChange": "下降2位",
+      "winRate": 0.4953,
+      "pickRate": 0.1105,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.0651,
+          "winRate": 0.5417,
+          "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0625,
+          "winRate": 0.5597,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0578,
+          "winRate": 0.5712,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3123,
+        3018,
+        1092
+      ]
+    },
+    {
+      "championId": 887,
+      "rank": 34,
+      "rankChange": "下降1位",
+      "winRate": 0.5354,
+      "pickRate": 0.0481,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0548,
+          "winRate": 0.5988,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.047,
+          "winRate": 0.6079,
+          "rank": 2
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0634,
+          "winRate": 0.5645,
+          "rank": 3
+        }
+      ],
+      "items": [
+        2132,
+        1129,
+        1029
+      ]
+    },
+    {
       "championId": 3,
       "rank": 35,
       "rankChange": "未变化",
-      "winRate": 0.5268,
-      "pickRate": 0.0533,
+      "winRate": 0.527,
+      "pickRate": 0.0535,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.051,
-          "winRate": 0.6172,
+          "pickRate": 0.0506,
+          "winRate": 0.6173,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.053,
-          "winRate": 0.5929,
+          "pickRate": 0.0523,
+          "winRate": 0.5926,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0656,
-          "winRate": 0.5589,
+          "pickRate": 0.0648,
+          "winRate": 0.5593,
           "rank": 3
         }
       ],
@@ -1129,92 +1129,28 @@
       ]
     },
     {
-      "championId": 799,
-      "rank": 36,
-      "rankChange": "未变化",
-      "winRate": 0.53,
-      "pickRate": 0.0467,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0605,
-          "winRate": 0.6042,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0664,
-          "winRate": 0.5671,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0477,
-          "winRate": 0.5945,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3078,
-        2083,
-        1004
-      ]
-    },
-    {
-      "championId": 80,
-      "rank": 37,
-      "rankChange": "上升1位",
-      "winRate": 0.5129,
-      "pickRate": 0.0615,
-      "topPartners": [
-        {
-          "championId": 17,
-          "pickRate": 0.0622,
-          "winRate": 0.558,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0561,
-          "winRate": 0.5953,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0482,
-          "winRate": 0.5941,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1004,
-        1007,
-        2157
-      ]
-    },
-    {
       "championId": 103,
-      "rank": 38,
-      "rankChange": "上升1位",
-      "winRate": 0.5176,
-      "pickRate": 0.0597,
+      "rank": 36,
+      "rankChange": "上升2位",
+      "winRate": 0.5177,
+      "pickRate": 0.0598,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.054,
-          "winRate": 0.5997,
+          "pickRate": 0.0536,
+          "winRate": 0.6002,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0503,
-          "winRate": 0.5835,
+          "pickRate": 0.0496,
+          "winRate": 0.5824,
           "rank": 2
         },
         {
-          "championId": 236,
-          "pickRate": 0.063,
-          "winRate": 0.5473,
+          "championId": 11,
+          "pickRate": 0.0467,
+          "winRate": 0.5782,
           "rank": 3
         }
       ],
@@ -1225,60 +1161,28 @@
       ]
     },
     {
-      "championId": 37,
-      "rank": 39,
-      "rankChange": "下降2位",
-      "winRate": 0.5354,
-      "pickRate": 0.0446,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0582,
-          "winRate": 0.599,
-          "rank": 1
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.063,
-          "winRate": 0.5817,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0527,
-          "winRate": 0.6189,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3163,
-        1037,
-        1420
-      ]
-    },
-    {
       "championId": 202,
-      "rank": 40,
-      "rankChange": "上升4位",
-      "winRate": 0.4891,
-      "pickRate": 0.1385,
+      "rank": 37,
+      "rankChange": "上升3位",
+      "winRate": 0.4894,
+      "pickRate": 0.1367,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0654,
-          "winRate": 0.5462,
+          "pickRate": 0.0646,
+          "winRate": 0.5476,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0687,
-          "winRate": 0.5364,
+          "pickRate": 0.0681,
+          "winRate": 0.5368,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0599,
-          "winRate": 0.5674,
+          "pickRate": 0.0591,
+          "winRate": 0.5668,
           "rank": 3
         }
       ],
@@ -1289,59 +1193,123 @@
       ]
     },
     {
-      "championId": 105,
-      "rank": 41,
-      "rankChange": "上升1位",
-      "winRate": 0.5002,
-      "pickRate": 0.0789,
+      "championId": 799,
+      "rank": 38,
+      "rankChange": "下降2位",
+      "winRate": 0.5299,
+      "pickRate": 0.0467,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0536,
-          "winRate": 0.575,
+          "pickRate": 0.0598,
+          "winRate": 0.6029,
           "rank": 1
         },
         {
-          "championId": 157,
-          "pickRate": 0.0512,
-          "winRate": 0.5875,
+          "championId": 17,
+          "pickRate": 0.066,
+          "winRate": 0.567,
           "rank": 2
         },
         {
-          "championId": 236,
-          "pickRate": 0.0655,
-          "winRate": 0.531,
+          "championId": 157,
+          "pickRate": 0.0472,
+          "winRate": 0.5947,
           "rank": 3
         }
       ],
       "items": [
-        1019,
-        1068,
-        3150
+        3078,
+        2083,
+        1004
+      ]
+    },
+    {
+      "championId": 37,
+      "rank": 39,
+      "rankChange": "未变化",
+      "winRate": 0.5354,
+      "pickRate": 0.045,
+      "topPartners": [
+        {
+          "championId": 236,
+          "pickRate": 0.0622,
+          "winRate": 0.5818,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0574,
+          "winRate": 0.5983,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0523,
+          "winRate": 0.6196,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3163,
+        1037,
+        1420
+      ]
+    },
+    {
+      "championId": 80,
+      "rank": 40,
+      "rankChange": "下降3位",
+      "winRate": 0.5123,
+      "pickRate": 0.0617,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.0616,
+          "winRate": 0.5583,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0554,
+          "winRate": 0.5946,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0478,
+          "winRate": 0.5938,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1004,
+        1007,
+        2157
       ]
     },
     {
       "championId": 55,
-      "rank": 42,
+      "rank": 41,
       "rankChange": "上升1位",
-      "winRate": 0.5003,
-      "pickRate": 0.0777,
+      "winRate": 0.5,
+      "pickRate": 0.0775,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0563,
-          "winRate": 0.5869,
+          "pickRate": 0.0557,
+          "winRate": 0.5856,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0514,
-          "winRate": 0.581,
+          "pickRate": 0.0509,
+          "winRate": 0.5808,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0617,
+          "pickRate": 0.0611,
           "winRate": 0.546,
           "rank": 3
         }
@@ -1354,91 +1322,91 @@
     },
     {
       "championId": 234,
-      "rank": 43,
-      "rankChange": "下降2位",
-      "winRate": 0.5242,
-      "pickRate": 0.0497,
+      "rank": 42,
+      "rankChange": "上升1位",
+      "winRate": 0.5247,
+      "pickRate": 0.0499,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0617,
+          "pickRate": 0.0611,
           "winRate": 0.5775,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0561,
-          "winRate": 0.6161,
+          "pickRate": 0.0554,
+          "winRate": 0.6162,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0466,
-          "winRate": 0.5927,
+          "pickRate": 0.0462,
+          "winRate": 0.5937,
           "rank": 3
         }
       ],
       "items": [
         1336,
         1077,
-        3078
+        3131
       ]
     },
     {
-      "championId": 112,
-      "rank": 44,
-      "rankChange": "上升1位",
-      "winRate": 0.5162,
-      "pickRate": 0.0584,
+      "championId": 105,
+      "rank": 43,
+      "rankChange": "下降2位",
+      "winRate": 0.4997,
+      "pickRate": 0.0794,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0548,
-          "winRate": 0.6003,
+          "championId": 4,
+          "pickRate": 0.0528,
+          "winRate": 0.5734,
           "rank": 1
         },
         {
-          "championId": 11,
-          "pickRate": 0.0465,
-          "winRate": 0.5881,
+          "championId": 157,
+          "pickRate": 0.0507,
+          "winRate": 0.5871,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0494,
-          "winRate": 0.5741,
+          "championId": 236,
+          "pickRate": 0.0648,
+          "winRate": 0.531,
           "rank": 3
         }
       ],
       "items": [
-        1030,
-        2132,
-        1048
+        1019,
+        1068,
+        3150
       ]
     },
     {
       "championId": 145,
-      "rank": 45,
-      "rankChange": "上升2位",
-      "winRate": 0.4866,
-      "pickRate": 0.1488,
+      "rank": 44,
+      "rankChange": "上升1位",
+      "winRate": 0.487,
+      "pickRate": 0.1472,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0593,
-          "winRate": 0.5652,
+          "pickRate": 0.0586,
+          "winRate": 0.5648,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0654,
-          "winRate": 0.5298,
+          "championId": 157,
+          "pickRate": 0.055,
+          "winRate": 0.5774,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0554,
-          "winRate": 0.5772,
+          "championId": 223,
+          "pickRate": 0.0646,
+          "winRate": 0.5309,
           "rank": 3
         }
       ],
@@ -1449,59 +1417,59 @@
       ]
     },
     {
-      "championId": 120,
-      "rank": 46,
-      "rankChange": "下降6位",
-      "winRate": 0.4945,
-      "pickRate": 0.0958,
+      "championId": 112,
+      "rank": 45,
+      "rankChange": "下降1位",
+      "winRate": 0.5166,
+      "pickRate": 0.0583,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0629,
-          "winRate": 0.5413,
+          "championId": 157,
+          "pickRate": 0.0545,
+          "winRate": 0.6012,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0563,
-          "winRate": 0.5718,
+          "championId": 11,
+          "pickRate": 0.0462,
+          "winRate": 0.5869,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0504,
-          "winRate": 0.5599,
+          "championId": 4,
+          "pickRate": 0.0489,
+          "winRate": 0.5741,
           "rank": 3
         }
       ],
       "items": [
-        1029,
-        1058,
-        1214
+        1030,
+        2132,
+        3150
       ]
     },
     {
       "championId": 12,
-      "rank": 47,
+      "rank": 46,
       "rankChange": "上升1位",
-      "winRate": 0.5169,
-      "pickRate": 0.0564,
+      "winRate": 0.5168,
+      "pickRate": 0.0569,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.062,
-          "winRate": 0.5985,
+          "pickRate": 0.0615,
+          "winRate": 0.598,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0615,
-          "winRate": 0.5663,
+          "pickRate": 0.0608,
+          "winRate": 0.5646,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0597,
+          "pickRate": 0.0591,
           "winRate": 0.5663,
           "rank": 3
         }
@@ -1513,28 +1481,60 @@
       ]
     },
     {
-      "championId": 26,
-      "rank": 48,
-      "rankChange": "下降2位",
-      "winRate": 0.5264,
-      "pickRate": 0.0449,
+      "championId": 120,
+      "rank": 47,
+      "rankChange": "下降1位",
+      "winRate": 0.4933,
+      "pickRate": 0.0952,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0509,
-          "winRate": 0.6175,
+          "championId": 17,
+          "pickRate": 0.0623,
+          "winRate": 0.5404,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0542,
-          "winRate": 0.5698,
+          "pickRate": 0.0556,
+          "winRate": 0.5704,
           "rank": 2
         },
         {
+          "championId": 157,
+          "pickRate": 0.05,
+          "winRate": 0.559,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1029,
+        1058,
+        1214
+      ]
+    },
+    {
+      "championId": 26,
+      "rank": 48,
+      "rankChange": "未变化",
+      "winRate": 0.5258,
+      "pickRate": 0.0452,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0506,
+          "winRate": 0.6173,
+          "rank": 1
+        },
+        {
           "championId": 223,
-          "pickRate": 0.0709,
+          "pickRate": 0.0701,
           "winRate": 0.5571,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0536,
+          "winRate": 0.5684,
           "rank": 3
         }
       ],
@@ -1547,26 +1547,26 @@
     {
       "championId": 50,
       "rank": 49,
-      "rankChange": "上升2位",
-      "winRate": 0.4927,
-      "pickRate": 0.0938,
+      "rankChange": "未变化",
+      "winRate": 0.4928,
+      "pickRate": 0.0939,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.054,
-          "winRate": 0.5596,
+          "pickRate": 0.0531,
+          "winRate": 0.559,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0499,
-          "winRate": 0.5696,
+          "pickRate": 0.0495,
+          "winRate": 0.5699,
           "rank": 2
         },
         {
-          "championId": 17,
-          "pickRate": 0.0635,
-          "winRate": 0.5275,
+          "championId": 223,
+          "pickRate": 0.061,
+          "winRate": 0.5328,
           "rank": 3
         }
       ],
@@ -1577,156 +1577,28 @@
       ]
     },
     {
-      "championId": 81,
-      "rank": 50,
-      "rankChange": "未变化",
-      "winRate": 0.4824,
-      "pickRate": 0.1479,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0602,
-          "winRate": 0.5576,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0542,
-          "winRate": 0.5685,
-          "rank": 2
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0652,
-          "winRate": 0.537,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1048,
-        3086,
-        1373
-      ]
-    },
-    {
-      "championId": 134,
-      "rank": 51,
-      "rankChange": "上升3位",
-      "winRate": 0.5026,
-      "pickRate": 0.0625,
-      "topPartners": [
-        {
-          "championId": 157,
-          "pickRate": 0.0547,
-          "winRate": 0.5956,
-          "rank": 1
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0708,
-          "winRate": 0.5411,
-          "rank": 2
-        },
-        {
-          "championId": 11,
-          "pickRate": 0.047,
-          "winRate": 0.5763,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1030,
-        3150,
-        1048
-      ]
-    },
-    {
-      "championId": 90,
-      "rank": 52,
-      "rankChange": "上升1位",
-      "winRate": 0.5103,
-      "pickRate": 0.0553,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0611,
-          "winRate": 0.5658,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0524,
-          "winRate": 0.6058,
-          "rank": 2
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.05,
-          "winRate": 0.5736,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1045,
-        3086,
-        1373
-      ]
-    },
-    {
-      "championId": 107,
-      "rank": 53,
-      "rankChange": "下降1位",
-      "winRate": 0.5079,
-      "pickRate": 0.0581,
-      "topPartners": [
-        {
-          "championId": 17,
-          "pickRate": 0.0621,
-          "winRate": 0.5624,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0568,
-          "winRate": 0.597,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0482,
-          "winRate": 0.5808,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3018,
-        3078,
-        1007
-      ]
-    },
-    {
       "championId": 238,
-      "rank": 54,
-      "rankChange": "上升2位",
+      "rank": 50,
+      "rankChange": "上升4位",
       "winRate": 0.4935,
-      "pickRate": 0.087,
+      "pickRate": 0.0867,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0582,
-          "winRate": 0.5845,
+          "pickRate": 0.0575,
+          "winRate": 0.5836,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0646,
-          "winRate": 0.5452,
+          "pickRate": 0.064,
+          "winRate": 0.5455,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0608,
-          "winRate": 0.543,
+          "pickRate": 0.0601,
+          "winRate": 0.5442,
           "rank": 3
         }
       ],
@@ -1737,27 +1609,123 @@
       ]
     },
     {
-      "championId": 27,
-      "rank": 55,
-      "rankChange": "下降6位",
-      "winRate": 0.5014,
-      "pickRate": 0.065,
+      "championId": 90,
+      "rank": 51,
+      "rankChange": "上升1位",
+      "winRate": 0.5105,
+      "pickRate": 0.0554,
+      "topPartners": [
+        {
+          "championId": 223,
+          "pickRate": 0.0603,
+          "winRate": 0.5662,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.052,
+          "winRate": 0.6061,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0494,
+          "winRate": 0.5727,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1045,
+        3086,
+        1373
+      ]
+    },
+    {
+      "championId": 81,
+      "rank": 52,
+      "rankChange": "下降2位",
+      "winRate": 0.4816,
+      "pickRate": 0.1467,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0596,
-          "winRate": 0.5501,
+          "pickRate": 0.0594,
+          "winRate": 0.556,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0538,
+          "winRate": 0.5681,
+          "rank": 2
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0644,
+          "winRate": 0.5374,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1048,
+        1373,
+        3086
+      ]
+    },
+    {
+      "championId": 134,
+      "rank": 53,
+      "rankChange": "下降2位",
+      "winRate": 0.5027,
+      "pickRate": 0.0618,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0545,
+          "winRate": 0.5951,
+          "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0703,
+          "winRate": 0.5407,
+          "rank": 2
+        },
+        {
+          "championId": 11,
+          "pickRate": 0.0467,
+          "winRate": 0.5745,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1030,
+        3150,
+        1048
+      ]
+    },
+    {
+      "championId": 27,
+      "rank": 54,
+      "rankChange": "上升1位",
+      "winRate": 0.5008,
+      "pickRate": 0.0655,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0589,
+          "winRate": 0.5485,
           "rank": 1
         },
         {
           "championId": 236,
-          "pickRate": 0.0586,
-          "winRate": 0.544,
+          "pickRate": 0.0579,
+          "winRate": 0.5439,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0543,
+          "pickRate": 0.054,
           "winRate": 0.5682,
           "rank": 3
         }
@@ -1770,27 +1738,27 @@
     },
     {
       "championId": 57,
-      "rank": 56,
+      "rank": 55,
       "rankChange": "上升1位",
-      "winRate": 0.4999,
-      "pickRate": 0.0685,
+      "winRate": 0.4994,
+      "pickRate": 0.0695,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.053,
-          "winRate": 0.5756,
+          "pickRate": 0.0523,
+          "winRate": 0.5738,
           "rank": 1
         },
         {
           "championId": 236,
-          "pickRate": 0.0664,
-          "winRate": 0.5387,
+          "pickRate": 0.0656,
+          "winRate": 0.5383,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.051,
-          "winRate": 0.5852,
+          "pickRate": 0.0504,
+          "winRate": 0.5844,
           "rank": 3
         }
       ],
@@ -1801,28 +1769,60 @@
       ]
     },
     {
-      "championId": 35,
-      "rank": 57,
-      "rankChange": "下降2位",
-      "winRate": 0.4883,
-      "pickRate": 0.1041,
+      "championId": 107,
+      "rank": 56,
+      "rankChange": "下降3位",
+      "winRate": 0.5072,
+      "pickRate": 0.0582,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0576,
-          "winRate": 0.5747,
+          "pickRate": 0.056,
+          "winRate": 0.5952,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0646,
-          "winRate": 0.5297,
+          "pickRate": 0.0614,
+          "winRate": 0.5618,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0532,
-          "winRate": 0.5759,
+          "pickRate": 0.0478,
+          "winRate": 0.5807,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3078,
+        3018,
+        1007
+      ]
+    },
+    {
+      "championId": 35,
+      "rank": 57,
+      "rankChange": "未变化",
+      "winRate": 0.4878,
+      "pickRate": 0.1036,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0569,
+          "winRate": 0.5736,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0639,
+          "winRate": 0.5295,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0528,
+          "winRate": 0.5752,
           "rank": 3
         }
       ],
@@ -1836,57 +1836,57 @@
       "championId": 910,
       "rank": 58,
       "rankChange": "未变化",
-      "winRate": 0.5213,
-      "pickRate": 0.0421,
+      "winRate": 0.5214,
+      "pickRate": 0.0426,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0635,
-          "winRate": 0.5955,
+          "pickRate": 0.0624,
+          "winRate": 0.5968,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0516,
-          "winRate": 0.6215,
+          "pickRate": 0.051,
+          "winRate": 0.6217,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0484,
-          "winRate": 0.5987,
+          "pickRate": 0.0481,
+          "winRate": 0.5969,
           "rank": 3
         }
       ],
       "items": [
         1045,
         1373,
-        3086
+        1030
       ]
     },
     {
       "championId": 893,
       "rank": 59,
-      "rankChange": "上升1位",
-      "winRate": 0.5014,
+      "rankChange": "未变化",
+      "winRate": 0.5017,
       "pickRate": 0.0612,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0543,
-          "winRate": 0.587,
+          "pickRate": 0.0539,
+          "winRate": 0.5869,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.052,
-          "winRate": 0.5599,
+          "pickRate": 0.0512,
+          "winRate": 0.5592,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0706,
-          "winRate": 0.5348,
+          "pickRate": 0.0699,
+          "winRate": 0.5346,
           "rank": 3
         }
       ],
@@ -1897,27 +1897,59 @@
       ]
     },
     {
-      "championId": 24,
+      "championId": 526,
       "rank": 60,
+      "rankChange": "上升1位",
+      "winRate": 0.5369,
+      "pickRate": 0.0305,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0522,
+          "winRate": 0.6226,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0518,
+          "winRate": 0.6059,
+          "rank": 2
+        },
+        {
+          "championId": 236,
+          "pickRate": 0.0638,
+          "winRate": 0.5659,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1353,
+        3049,
+        1152
+      ]
+    },
+    {
+      "championId": 24,
+      "rank": 61,
       "rankChange": "下降1位",
-      "winRate": 0.5023,
+      "winRate": 0.5018,
       "pickRate": 0.0585,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0541,
-          "winRate": 0.5799,
+          "pickRate": 0.0534,
+          "winRate": 0.5797,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0609,
-          "winRate": 0.5394,
+          "pickRate": 0.0602,
+          "winRate": 0.5392,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0462,
+          "pickRate": 0.0459,
           "winRate": 0.5781,
           "rank": 3
         }
@@ -1929,92 +1961,28 @@
       ]
     },
     {
-      "championId": 526,
-      "rank": 61,
-      "rankChange": "未变化",
-      "winRate": 0.5364,
-      "pickRate": 0.0303,
-      "topPartners": [
-        {
-          "championId": 157,
-          "pickRate": 0.0528,
-          "winRate": 0.6218,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.606,
-          "rank": 2
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.0644,
-          "winRate": 0.5651,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1353,
-        3049,
-        1152
-      ]
-    },
-    {
-      "championId": 45,
-      "rank": 62,
-      "rankChange": "未变化",
-      "winRate": 0.4987,
-      "pickRate": 0.0639,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0611,
-          "winRate": 0.5534,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0501,
-          "winRate": 0.5931,
-          "rank": 2
-        },
-        {
-          "championId": 11,
-          "pickRate": 0.0492,
-          "winRate": 0.5658,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1030,
-        1373,
-        2132
-      ]
-    },
-    {
       "championId": 102,
-      "rank": 63,
-      "rankChange": "未变化",
-      "winRate": 0.5217,
-      "pickRate": 0.0365,
+      "rank": 62,
+      "rankChange": "上升1位",
+      "winRate": 0.5221,
+      "pickRate": 0.0368,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0529,
-          "winRate": 0.5926,
+          "pickRate": 0.0519,
+          "winRate": 0.5921,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0603,
-          "winRate": 0.5621,
+          "pickRate": 0.0597,
+          "winRate": 0.562,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0463,
-          "winRate": 0.5903,
+          "pickRate": 0.0458,
+          "winRate": 0.5901,
           "rank": 3
         }
       ],
@@ -2025,60 +1993,60 @@
       ]
     },
     {
-      "championId": 122,
-      "rank": 64,
-      "rankChange": "上升2位",
-      "winRate": 0.495,
-      "pickRate": 0.0684,
+      "championId": 45,
+      "rank": 63,
+      "rankChange": "下降1位",
+      "winRate": 0.4986,
+      "pickRate": 0.0646,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0543,
-          "winRate": 0.5744,
+          "championId": 223,
+          "pickRate": 0.0601,
+          "winRate": 0.555,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0621,
-          "winRate": 0.5336,
+          "championId": 157,
+          "pickRate": 0.0497,
+          "winRate": 0.5935,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0463,
-          "winRate": 0.5705,
+          "championId": 11,
+          "pickRate": 0.0489,
+          "winRate": 0.5642,
           "rank": 3
         }
       ],
       "items": [
-        1353,
-        2091,
-        1041
+        1030,
+        1373,
+        2132
       ]
     },
     {
       "championId": 517,
-      "rank": 65,
-      "rankChange": "未变化",
-      "winRate": 0.4889,
-      "pickRate": 0.0862,
+      "rank": 64,
+      "rankChange": "上升1位",
+      "winRate": 0.4891,
+      "pickRate": 0.0863,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0549,
-          "winRate": 0.5673,
+          "pickRate": 0.0541,
+          "winRate": 0.567,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0513,
-          "winRate": 0.5747,
+          "pickRate": 0.0508,
+          "winRate": 0.5751,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0627,
-          "winRate": 0.5215,
+          "pickRate": 0.0621,
+          "winRate": 0.5217,
           "rank": 3
         }
       ],
@@ -2089,28 +2057,60 @@
       ]
     },
     {
-      "championId": 904,
-      "rank": 66,
-      "rankChange": "上升1位",
-      "winRate": 0.519,
-      "pickRate": 0.0366,
+      "championId": 122,
+      "rank": 65,
+      "rankChange": "下降1位",
+      "winRate": 0.4957,
+      "pickRate": 0.0689,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0598,
-          "winRate": 0.586,
+          "pickRate": 0.0535,
+          "winRate": 0.5743,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0684,
+          "pickRate": 0.0614,
+          "winRate": 0.5345,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0459,
+          "winRate": 0.5714,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1353,
+        2091,
+        1041
+      ]
+    },
+    {
+      "championId": 904,
+      "rank": 66,
+      "rankChange": "未变化",
+      "winRate": 0.5195,
+      "pickRate": 0.0363,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0592,
+          "winRate": 0.5856,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0679,
           "winRate": 0.5505,
           "rank": 2
         },
         {
           "championId": 25,
-          "pickRate": 0.0477,
-          "winRate": 0.5674,
+          "pickRate": 0.0475,
+          "winRate": 0.5688,
           "rank": 3
         }
       ],
@@ -2123,26 +2123,26 @@
     {
       "championId": 126,
       "rank": 67,
-      "rankChange": "下降3位",
-      "winRate": 0.4794,
-      "pickRate": 0.1069,
+      "rankChange": "未变化",
+      "winRate": 0.4798,
+      "pickRate": 0.1057,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0592,
-          "winRate": 0.5662,
+          "championId": 17,
+          "pickRate": 0.066,
+          "winRate": 0.5258,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0667,
-          "winRate": 0.5252,
+          "championId": 4,
+          "pickRate": 0.0585,
+          "winRate": 0.5657,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0616,
-          "winRate": 0.5287,
+          "pickRate": 0.0608,
+          "winRate": 0.5301,
           "rank": 3
         }
       ],
@@ -2155,26 +2155,26 @@
     {
       "championId": 78,
       "rank": 68,
-      "rankChange": "上升2位",
-      "winRate": 0.5315,
-      "pickRate": 0.0291,
+      "rankChange": "未变化",
+      "winRate": 0.5325,
+      "pickRate": 0.0296,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0536,
-          "winRate": 0.6108,
+          "pickRate": 0.0528,
+          "winRate": 0.6117,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.047,
-          "winRate": 0.6015,
+          "pickRate": 0.0467,
+          "winRate": 0.6021,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0588,
-          "winRate": 0.5714,
+          "pickRate": 0.0582,
+          "winRate": 0.572,
           "rank": 3
         }
       ],
@@ -2187,26 +2187,26 @@
     {
       "championId": 54,
       "rank": 69,
-      "rankChange": "下降1位",
-      "winRate": 0.4782,
-      "pickRate": 0.1052,
+      "rankChange": "未变化",
+      "winRate": 0.4786,
+      "pickRate": 0.1049,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0617,
-          "winRate": 0.5794,
+          "pickRate": 0.061,
+          "winRate": 0.5797,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.055,
-          "winRate": 0.5408,
+          "pickRate": 0.0542,
+          "winRate": 0.5409,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.06,
-          "winRate": 0.5139,
+          "pickRate": 0.0592,
+          "winRate": 0.5153,
           "rank": 3
         }
       ],
@@ -2217,92 +2217,92 @@
       ]
     },
     {
-      "championId": 350,
+      "championId": 161,
       "rank": 70,
-      "rankChange": "上升1位",
-      "winRate": 0.5267,
-      "pickRate": 0.0301,
+      "rankChange": "上升3位",
+      "winRate": 0.502,
+      "pickRate": 0.0479,
+      "topPartners": [
+        {
+          "championId": 223,
+          "pickRate": 0.0613,
+          "winRate": 0.5614,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0502,
+          "winRate": 0.6016,
+          "rank": 2
+        },
+        {
+          "championId": 11,
+          "pickRate": 0.0481,
+          "winRate": 0.5715,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1030,
+        1373,
+        1113
+      ]
+    },
+    {
+      "championId": 350,
+      "rank": 71,
+      "rankChange": "下降1位",
+      "winRate": 0.5268,
+      "pickRate": 0.0302,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0546,
-          "winRate": 0.6177,
+          "pickRate": 0.0542,
+          "winRate": 0.6175,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0528,
-          "winRate": 0.6078,
+          "pickRate": 0.052,
+          "winRate": 0.6071,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0701,
-          "winRate": 0.5653,
+          "pickRate": 0.0695,
+          "winRate": 0.5658,
           "rank": 3
         }
       ],
       "items": [
         3163,
-        1141,
-        1420
-      ]
-    },
-    {
-      "championId": 8,
-      "rank": 71,
-      "rankChange": "下降2位",
-      "winRate": 0.4904,
-      "pickRate": 0.0691,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0531,
-          "winRate": 0.5669,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.06,
-          "winRate": 0.5333,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0509,
-          "winRate": 0.5688,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1353,
-        1030,
-        2132
+        1420,
+        1141
       ]
     },
     {
       "championId": 98,
       "rank": 72,
-      "rankChange": "上升1位",
-      "winRate": 0.5071,
-      "pickRate": 0.0421,
+      "rankChange": "未变化",
+      "winRate": 0.5077,
+      "pickRate": 0.0418,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0535,
-          "winRate": 0.5758,
+          "pickRate": 0.0529,
+          "winRate": 0.5759,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.046,
-          "winRate": 0.5907,
+          "pickRate": 0.0456,
+          "winRate": 0.5908,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.061,
-          "winRate": 0.5358,
+          "pickRate": 0.0603,
+          "winRate": 0.5367,
           "rank": 3
         }
       ],
@@ -2313,60 +2313,60 @@
       ]
     },
     {
-      "championId": 161,
+      "championId": 8,
       "rank": 73,
-      "rankChange": "上升1位",
-      "winRate": 0.5015,
-      "pickRate": 0.0476,
+      "rankChange": "下降2位",
+      "winRate": 0.4897,
+      "pickRate": 0.0691,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0621,
-          "winRate": 0.5598,
+          "pickRate": 0.0596,
+          "winRate": 0.533,
           "rank": 1
         },
         {
-          "championId": 157,
-          "pickRate": 0.0506,
-          "winRate": 0.6001,
+          "championId": 4,
+          "pickRate": 0.0525,
+          "winRate": 0.5656,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0485,
-          "winRate": 0.5615,
+          "championId": 157,
+          "pickRate": 0.0504,
+          "winRate": 0.5678,
           "rank": 3
         }
       ],
       "items": [
+        1353,
         1030,
-        1373,
-        3086
+        2132
       ]
     },
     {
       "championId": 62,
       "rank": 74,
-      "rankChange": "下降2位",
-      "winRate": 0.4997,
-      "pickRate": 0.0537,
+      "rankChange": "未变化",
+      "winRate": 0.4996,
+      "pickRate": 0.0539,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0541,
-          "winRate": 0.5816,
+          "pickRate": 0.0533,
+          "winRate": 0.5803,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0519,
-          "winRate": 0.5794,
+          "pickRate": 0.0514,
+          "winRate": 0.5792,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.06,
-          "winRate": 0.5422,
+          "pickRate": 0.0594,
+          "winRate": 0.5423,
           "rank": 3
         }
       ],
@@ -2377,59 +2377,59 @@
       ]
     },
     {
-      "championId": 14,
+      "championId": 89,
       "rank": 75,
-      "rankChange": "未变化",
-      "winRate": 0.5016,
-      "pickRate": 0.045,
+      "rankChange": "上升2位",
+      "winRate": 0.5054,
+      "pickRate": 0.0423,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0535,
-          "winRate": 0.5699,
+          "pickRate": 0.052,
+          "winRate": 0.5735,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0482,
-          "winRate": 0.589,
+          "pickRate": 0.0462,
+          "winRate": 0.5855,
           "rank": 2
         },
         {
-          "championId": 17,
-          "pickRate": 0.0599,
-          "winRate": 0.5383,
+          "championId": 236,
+          "pickRate": 0.0641,
+          "winRate": 0.5372,
           "rank": 3
         }
       ],
       "items": [
+        3049,
         1353,
-        1041,
-        3263
+        1041
       ]
     },
     {
       "championId": 101,
       "rank": 76,
-      "rankChange": "上升4位",
-      "winRate": 0.4896,
-      "pickRate": 0.0669,
+      "rankChange": "未变化",
+      "winRate": 0.4904,
+      "pickRate": 0.0671,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0617,
-          "winRate": 0.5467,
+          "pickRate": 0.0609,
+          "winRate": 0.5484,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0506,
-          "winRate": 0.5865,
+          "pickRate": 0.0502,
+          "winRate": 0.5871,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0485,
+          "pickRate": 0.0482,
           "winRate": 0.5567,
           "rank": 3
         }
@@ -2441,60 +2441,28 @@
       ]
     },
     {
-      "championId": 89,
-      "rank": 77,
-      "rankChange": "未变化",
-      "winRate": 0.5049,
-      "pickRate": 0.042,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0528,
-          "winRate": 0.5732,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0465,
-          "winRate": 0.5852,
-          "rank": 2
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.0649,
-          "winRate": 0.5357,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3049,
-        1353,
-        1041
-      ]
-    },
-    {
       "championId": 111,
-      "rank": 78,
-      "rankChange": "下降2位",
-      "winRate": 0.4989,
-      "pickRate": 0.051,
+      "rank": 77,
+      "rankChange": "上升1位",
+      "winRate": 0.4991,
+      "pickRate": 0.0514,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0529,
-          "winRate": 0.5716,
+          "pickRate": 0.0521,
+          "winRate": 0.5721,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0505,
-          "winRate": 0.585,
+          "pickRate": 0.0502,
+          "winRate": 0.586,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0663,
-          "winRate": 0.5328,
+          "pickRate": 0.0656,
+          "winRate": 0.5332,
           "rank": 3
         }
       ],
@@ -2505,60 +2473,60 @@
       ]
     },
     {
-      "championId": 30,
-      "rank": 79,
-      "rankChange": "下降1位",
-      "winRate": 0.4668,
-      "pickRate": 0.1262,
+      "championId": 14,
+      "rank": 78,
+      "rankChange": "下降3位",
+      "winRate": 0.5015,
+      "pickRate": 0.0454,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0544,
-          "winRate": 0.5598,
+          "championId": 4,
+          "pickRate": 0.0528,
+          "winRate": 0.5691,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.064,
-          "winRate": 0.5212,
+          "championId": 157,
+          "pickRate": 0.0477,
+          "winRate": 0.5892,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0562,
-          "winRate": 0.5274,
+          "championId": 17,
+          "pickRate": 0.0593,
+          "winRate": 0.5386,
           "rank": 3
         }
       ],
       "items": [
-        3118,
-        1030,
-        2018
+        1353,
+        1041,
+        3263
       ]
     },
     {
       "championId": 800,
-      "rank": 80,
-      "rankChange": "上升3位",
-      "winRate": 0.491,
-      "pickRate": 0.0624,
+      "rank": 79,
+      "rankChange": "上升1位",
+      "winRate": 0.4916,
+      "pickRate": 0.0626,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0641,
-          "winRate": 0.5452,
+          "pickRate": 0.063,
+          "winRate": 0.5472,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0497,
-          "winRate": 0.5807,
+          "pickRate": 0.0493,
+          "winRate": 0.5823,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0503,
-          "winRate": 0.5479,
+          "pickRate": 0.0494,
+          "winRate": 0.5478,
           "rank": 3
         }
       ],
@@ -2569,28 +2537,92 @@
       ]
     },
     {
-      "championId": 16,
+      "championId": 30,
+      "rank": 80,
+      "rankChange": "下降1位",
+      "winRate": 0.4665,
+      "pickRate": 0.1249,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0539,
+          "winRate": 0.5594,
+          "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0632,
+          "winRate": 0.5219,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0556,
+          "winRate": 0.5264,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3118,
+        1030,
+        1068
+      ]
+    },
+    {
+      "championId": 110,
       "rank": 81,
-      "rankChange": "下降2位",
-      "winRate": 0.5115,
-      "pickRate": 0.0331,
+      "rankChange": "上升2位",
+      "winRate": 0.4769,
+      "pickRate": 0.09,
+      "topPartners": [
+        {
+          "championId": 223,
+          "pickRate": 0.0623,
+          "winRate": 0.5378,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0561,
+          "winRate": 0.5446,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0511,
+          "winRate": 0.5701,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3086,
+        1007,
+        1238
+      ]
+    },
+    {
+      "championId": 16,
+      "rank": 82,
+      "rankChange": "下降1位",
+      "winRate": 0.5112,
+      "pickRate": 0.0333,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0538,
-          "winRate": 0.603,
+          "pickRate": 0.0529,
+          "winRate": 0.6017,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0509,
-          "winRate": 0.6014,
+          "pickRate": 0.0504,
+          "winRate": 0.6015,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0669,
-          "winRate": 0.5469,
+          "pickRate": 0.0661,
+          "winRate": 0.5475,
           "rank": 3
         }
       ],
@@ -2602,91 +2634,59 @@
     },
     {
       "championId": 222,
-      "rank": 82,
+      "rank": 83,
       "rankChange": "下降1位",
-      "winRate": 0.4729,
-      "pickRate": 0.0986,
+      "winRate": 0.4734,
+      "pickRate": 0.0977,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0608,
-          "winRate": 0.5391,
+          "pickRate": 0.0602,
+          "winRate": 0.5388,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0735,
-          "winRate": 0.5151,
+          "championId": 157,
+          "pickRate": 0.0521,
+          "winRate": 0.5476,
           "rank": 2
         },
         {
-          "championId": 17,
-          "pickRate": 0.066,
-          "winRate": 0.5178,
+          "championId": 223,
+          "pickRate": 0.0728,
+          "winRate": 0.5157,
           "rank": 3
         }
       ],
       "items": [
         1336,
-        1071,
-        1328
-      ]
-    },
-    {
-      "championId": 110,
-      "rank": 83,
-      "rankChange": "下降1位",
-      "winRate": 0.4766,
-      "pickRate": 0.0901,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0631,
-          "winRate": 0.5367,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0569,
-          "winRate": 0.5453,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0515,
-          "winRate": 0.5702,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3086,
-        1007,
-        1238
+        3123,
+        1071
       ]
     },
     {
       "championId": 115,
       "rank": 84,
-      "rankChange": "上升1位",
-      "winRate": 0.4915,
-      "pickRate": 0.0609,
+      "rankChange": "未变化",
+      "winRate": 0.4921,
+      "pickRate": 0.0608,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0609,
-          "winRate": 0.5578,
+          "pickRate": 0.0601,
+          "winRate": 0.5591,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0506,
-          "winRate": 0.5859,
+          "pickRate": 0.0501,
+          "winRate": 0.5869,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0488,
-          "winRate": 0.5715,
+          "pickRate": 0.0486,
+          "winRate": 0.5702,
           "rank": 3
         }
       ],
@@ -2699,26 +2699,26 @@
     {
       "championId": 40,
       "rank": 85,
-      "rankChange": "上升1位",
-      "winRate": 0.527,
-      "pickRate": 0.0206,
+      "rankChange": "未变化",
+      "winRate": 0.5269,
+      "pickRate": 0.0209,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0572,
-          "winRate": 0.6095,
+          "pickRate": 0.0567,
+          "winRate": 0.6092,
           "rank": 1
         },
         {
           "championId": 236,
-          "pickRate": 0.0621,
-          "winRate": 0.5781,
+          "pickRate": 0.0613,
+          "winRate": 0.5791,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0607,
-          "winRate": 0.5718,
+          "pickRate": 0.06,
+          "winRate": 0.5711,
           "rank": 3
         }
       ],
@@ -2731,26 +2731,26 @@
     {
       "championId": 22,
       "rank": 86,
-      "rankChange": "下降2位",
-      "winRate": 0.4525,
-      "pickRate": 0.1621,
+      "rankChange": "未变化",
+      "winRate": 0.4518,
+      "pickRate": 0.1603,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0672,
+          "pickRate": 0.0663,
           "winRate": 0.5045,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0544,
-          "winRate": 0.5487,
+          "pickRate": 0.054,
+          "winRate": 0.5483,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0594,
-          "winRate": 0.5164,
+          "pickRate": 0.0586,
+          "winRate": 0.5152,
           "rank": 3
         }
       ],
@@ -2763,26 +2763,26 @@
     {
       "championId": 804,
       "rank": 87,
-      "rankChange": "上升1位",
-      "winRate": 0.4903,
-      "pickRate": 0.0594,
+      "rankChange": "未变化",
+      "winRate": 0.4907,
+      "pickRate": 0.0592,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0607,
-          "winRate": 0.546,
+          "pickRate": 0.0602,
+          "winRate": 0.5449,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0531,
-          "winRate": 0.5577,
+          "pickRate": 0.0529,
+          "winRate": 0.5583,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0622,
-          "winRate": 0.535,
+          "pickRate": 0.0616,
+          "winRate": 0.5354,
           "rank": 3
         }
       ],
@@ -2793,28 +2793,60 @@
       ]
     },
     {
-      "championId": 99,
+      "championId": 91,
       "rank": 88,
-      "rankChange": "上升3位",
-      "winRate": 0.4839,
-      "pickRate": 0.0657,
+      "rankChange": "上升2位",
+      "winRate": 0.4959,
+      "pickRate": 0.0469,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0551,
+          "winRate": 0.5825,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0606,
+          "winRate": 0.5489,
+          "rank": 2
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0573,
+          "winRate": 0.5509,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1007,
+        1048,
+        2083
+      ]
+    },
+    {
+      "championId": 99,
+      "rank": 89,
+      "rankChange": "下降1位",
+      "winRate": 0.4847,
+      "pickRate": 0.0655,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0631,
-          "winRate": 0.5418,
+          "pickRate": 0.0622,
+          "winRate": 0.5433,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0486,
-          "winRate": 0.5847,
+          "pickRate": 0.0483,
+          "winRate": 0.5853,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0486,
-          "winRate": 0.5588,
+          "pickRate": 0.0484,
+          "winRate": 0.5585,
           "rank": 3
         }
       ],
@@ -2826,27 +2858,27 @@
     },
     {
       "championId": 68,
-      "rank": 89,
-      "rankChange": "上升1位",
-      "winRate": 0.4919,
-      "pickRate": 0.0556,
+      "rank": 90,
+      "rankChange": "下降1位",
+      "winRate": 0.4921,
+      "pickRate": 0.0557,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0599,
-          "winRate": 0.5442,
+          "pickRate": 0.0592,
+          "winRate": 0.5446,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0519,
-          "winRate": 0.5816,
+          "pickRate": 0.0514,
+          "winRate": 0.5818,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0505,
-          "winRate": 0.5651,
+          "pickRate": 0.05,
+          "winRate": 0.5637,
           "rank": 3
         }
       ],
@@ -2857,59 +2889,59 @@
       ]
     },
     {
-      "championId": 91,
-      "rank": 90,
-      "rankChange": "下降3位",
-      "winRate": 0.4965,
-      "pickRate": 0.0467,
+      "championId": 75,
+      "rank": 91,
+      "rankChange": "上升1位",
+      "winRate": 0.4935,
+      "pickRate": 0.0483,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0557,
-          "winRate": 0.5837,
+          "pickRate": 0.0514,
+          "winRate": 0.5598,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0612,
-          "winRate": 0.5491,
+          "championId": 223,
+          "pickRate": 0.0574,
+          "winRate": 0.5365,
           "rank": 2
         },
         {
-          "championId": 223,
-          "pickRate": 0.0579,
-          "winRate": 0.551,
+          "championId": 157,
+          "pickRate": 0.0461,
+          "winRate": 0.5652,
           "rank": 3
         }
       ],
       "items": [
-        3123,
-        1007,
-        2083
+        2111,
+        3049,
+        1068
       ]
     },
     {
       "championId": 76,
-      "rank": 91,
-      "rankChange": "下降2位",
-      "winRate": 0.4772,
-      "pickRate": 0.072,
+      "rank": 92,
+      "rankChange": "下降1位",
+      "winRate": 0.4768,
+      "pickRate": 0.0721,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0534,
-          "winRate": 0.5568,
+          "pickRate": 0.0527,
+          "winRate": 0.5558,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0508,
-          "winRate": 0.5733,
+          "pickRate": 0.0504,
+          "winRate": 0.5721,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0593,
+          "pickRate": 0.0585,
           "winRate": 0.5199,
           "rank": 3
         }
@@ -2921,124 +2953,60 @@
       ]
     },
     {
-      "championId": 75,
-      "rank": 92,
-      "rankChange": "上升4位",
-      "winRate": 0.4927,
-      "pickRate": 0.048,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0522,
-          "winRate": 0.5598,
-          "rank": 1
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0582,
-          "winRate": 0.5353,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0464,
-          "winRate": 0.5645,
-          "rank": 3
-        }
-      ],
-      "items": [
-        2111,
-        3049,
-        1041
-      ]
-    },
-    {
       "championId": 29,
       "rank": 93,
-      "rankChange": "上升1位",
+      "rankChange": "未变化",
       "winRate": 0.4744,
-      "pickRate": 0.075,
+      "pickRate": 0.0759,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0559,
-          "winRate": 0.5499,
+          "championId": 223,
+          "pickRate": 0.0632,
+          "winRate": 0.5281,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0643,
-          "winRate": 0.527,
+          "championId": 4,
+          "pickRate": 0.055,
+          "winRate": 0.5492,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0616,
-          "winRate": 0.5267,
+          "pickRate": 0.061,
+          "winRate": 0.5269,
           "rank": 3
         }
       ],
       "items": [
         1336,
-        1225,
-        2096
-      ]
-    },
-    {
-      "championId": 121,
-      "rank": 94,
-      "rankChange": "上升1位",
-      "winRate": 0.4881,
-      "pickRate": 0.0588,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0563,
-          "winRate": 0.5828,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0617,
-          "winRate": 0.5358,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0474,
-          "winRate": 0.564,
-          "rank": 3
-        }
-      ],
-      "items": [
-        2083,
-        3081,
-        1007
+        2096,
+        1225
       ]
     },
     {
       "championId": 143,
-      "rank": 95,
-      "rankChange": "上升2位",
-      "winRate": 0.4958,
-      "pickRate": 0.0446,
+      "rank": 94,
+      "rankChange": "上升1位",
+      "winRate": 0.4962,
+      "pickRate": 0.045,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0627,
-          "winRate": 0.5511,
+          "pickRate": 0.0617,
+          "winRate": 0.5524,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0508,
-          "winRate": 0.5901,
+          "pickRate": 0.0503,
+          "winRate": 0.5911,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0483,
-          "winRate": 0.5678,
+          "pickRate": 0.048,
+          "winRate": 0.5662,
           "rank": 3
         }
       ],
@@ -3049,60 +3017,92 @@
       ]
     },
     {
-      "championId": 39,
-      "rank": 96,
-      "rankChange": "下降4位",
-      "winRate": 0.5009,
-      "pickRate": 0.0357,
+      "championId": 121,
+      "rank": 95,
+      "rankChange": "下降1位",
+      "winRate": 0.4879,
+      "pickRate": 0.059,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0554,
-          "winRate": 0.5807,
+          "pickRate": 0.0555,
+          "winRate": 0.5818,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0604,
-          "winRate": 0.5511,
+          "pickRate": 0.0611,
+          "winRate": 0.5357,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0456,
-          "winRate": 0.5592,
+          "pickRate": 0.0469,
+          "winRate": 0.5645,
           "rank": 3
         }
       ],
       "items": [
-        3078,
+        2083,
+        3081,
+        1007
+      ]
+    },
+    {
+      "championId": 39,
+      "rank": 96,
+      "rankChange": "未变化",
+      "winRate": 0.5004,
+      "pickRate": 0.0359,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0546,
+          "winRate": 0.5793,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0598,
+          "winRate": 0.5506,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0451,
+          "winRate": 0.5591,
+          "rank": 3
+        }
+      ],
+      "items": [
         3131,
+        3078,
         1058
       ]
     },
     {
       "championId": 38,
       "rank": 97,
-      "rankChange": "下降4位",
-      "winRate": 0.5068,
-      "pickRate": 0.0294,
+      "rankChange": "未变化",
+      "winRate": 0.5065,
+      "pickRate": 0.0297,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0495,
-          "winRate": 0.5842,
+          "pickRate": 0.049,
+          "winRate": 0.5843,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0489,
+          "pickRate": 0.0484,
           "winRate": 0.5918,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0622,
-          "winRate": 0.5376,
+          "pickRate": 0.0616,
+          "winRate": 0.5372,
           "rank": 3
         }
       ],
@@ -3116,57 +3116,57 @@
       "championId": 59,
       "rank": 98,
       "rankChange": "未变化",
-      "winRate": 0.4652,
-      "pickRate": 0.0894,
+      "winRate": 0.4646,
+      "pickRate": 0.0892,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.056,
-          "winRate": 0.5426,
+          "pickRate": 0.0552,
+          "winRate": 0.5416,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0504,
-          "winRate": 0.5585,
+          "pickRate": 0.05,
+          "winRate": 0.5581,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0628,
-          "winRate": 0.5022,
+          "pickRate": 0.0621,
+          "winRate": 0.5017,
           "rank": 3
         }
       ],
       "items": [
         1007,
         1310,
-        1353
+        1048
       ]
     },
     {
       "championId": 235,
       "rank": 99,
       "rankChange": "未变化",
-      "winRate": 0.4686,
+      "winRate": 0.469,
       "pickRate": 0.0816,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.065,
-          "winRate": 0.5216,
+          "pickRate": 0.0641,
+          "winRate": 0.5229,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0559,
-          "winRate": 0.541,
+          "pickRate": 0.0552,
+          "winRate": 0.5406,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.051,
-          "winRate": 0.5562,
+          "pickRate": 0.0506,
+          "winRate": 0.5574,
           "rank": 3
         }
       ],
@@ -3180,25 +3180,25 @@
       "championId": 53,
       "rank": 100,
       "rankChange": "未变化",
-      "winRate": 0.4739,
-      "pickRate": 0.0693,
+      "winRate": 0.4736,
+      "pickRate": 0.0695,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0539,
-          "winRate": 0.5453,
+          "pickRate": 0.0532,
+          "winRate": 0.5443,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0493,
-          "winRate": 0.5674,
+          "pickRate": 0.0489,
+          "winRate": 0.5673,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0661,
-          "winRate": 0.5097,
+          "pickRate": 0.0654,
+          "winRate": 0.5101,
           "rank": 3
         }
       ],
@@ -3211,58 +3211,58 @@
     {
       "championId": 427,
       "rank": 101,
-      "rankChange": "上升1位",
-      "winRate": 0.5279,
-      "pickRate": 0.0066,
+      "rankChange": "未变化",
+      "winRate": 0.5271,
+      "pickRate": 0.0067,
       "topPartners": [
         {
           "championId": 236,
-          "pickRate": 0.0666,
-          "winRate": 0.5786,
+          "pickRate": 0.0658,
+          "winRate": 0.5781,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0512,
-          "winRate": 0.6057,
+          "championId": 157,
+          "pickRate": 0.0502,
+          "winRate": 0.6254,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0506,
-          "winRate": 0.6249,
+          "championId": 4,
+          "pickRate": 0.0502,
+          "winRate": 0.6044,
           "rank": 3
         }
       ],
       "items": [
         3163,
         1373,
-        3149
+        1037
       ]
     },
     {
       "championId": 44,
       "rank": 102,
-      "rankChange": "下降1位",
-      "winRate": 0.5265,
-      "pickRate": 0.009,
+      "rankChange": "未变化",
+      "winRate": 0.526,
+      "pickRate": 0.0092,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0502,
-          "winRate": 0.5977,
+          "pickRate": 0.0495,
+          "winRate": 0.5973,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0475,
-          "winRate": 0.6128,
+          "pickRate": 0.047,
+          "winRate": 0.6116,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.049,
-          "winRate": 0.569,
+          "pickRate": 0.0488,
+          "winRate": 0.5671,
           "rank": 3
         }
       ],
@@ -3276,25 +3276,25 @@
       "championId": 31,
       "rank": 103,
       "rankChange": "未变化",
-      "winRate": 0.4693,
-      "pickRate": 0.0703,
+      "winRate": 0.47,
+      "pickRate": 0.0704,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0534,
-          "winRate": 0.5402,
+          "pickRate": 0.0527,
+          "winRate": 0.5399,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0509,
-          "winRate": 0.5555,
+          "pickRate": 0.0505,
+          "winRate": 0.5563,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0614,
-          "winRate": 0.503,
+          "pickRate": 0.0608,
+          "winRate": 0.5033,
           "rank": 3
         }
       ],
@@ -3307,26 +3307,26 @@
     {
       "championId": 79,
       "rank": 104,
-      "rankChange": "上升1位",
+      "rankChange": "未变化",
       "winRate": 0.4848,
-      "pickRate": 0.0498,
+      "pickRate": 0.0502,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0539,
-          "winRate": 0.5849,
+          "pickRate": 0.0534,
+          "winRate": 0.5844,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0533,
-          "winRate": 0.5566,
+          "pickRate": 0.0525,
+          "winRate": 0.556,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0643,
-          "winRate": 0.5189,
+          "pickRate": 0.0636,
+          "winRate": 0.5199,
           "rank": 3
         }
       ],
@@ -3337,60 +3337,28 @@
       ]
     },
     {
-      "championId": 233,
-      "rank": 105,
-      "rankChange": "下降1位",
-      "winRate": 0.5032,
-      "pickRate": 0.0234,
-      "topPartners": [
-        {
-          "championId": 17,
-          "pickRate": 0.0588,
-          "winRate": 0.5605,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0554,
-          "winRate": 0.5866,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.048,
-          "winRate": 0.5795,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3131,
-        1058,
-        3078
-      ]
-    },
-    {
       "championId": 18,
-      "rank": 106,
+      "rank": 105,
       "rankChange": "上升1位",
       "winRate": 0.472,
-      "pickRate": 0.0647,
+      "pickRate": 0.0652,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0553,
-          "winRate": 0.5447,
+          "pickRate": 0.0544,
+          "winRate": 0.5439,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.066,
-          "winRate": 0.5198,
+          "pickRate": 0.0649,
+          "winRate": 0.521,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0492,
-          "winRate": 0.5483,
+          "pickRate": 0.0488,
+          "winRate": 0.5487,
           "rank": 3
         }
       ],
@@ -3401,28 +3369,60 @@
       ]
     },
     {
-      "championId": 360,
-      "rank": 107,
+      "championId": 233,
+      "rank": 106,
       "rankChange": "下降1位",
-      "winRate": 0.4891,
-      "pickRate": 0.0436,
+      "winRate": 0.5018,
+      "pickRate": 0.0234,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0553,
-          "winRate": 0.5779,
+          "championId": 17,
+          "pickRate": 0.0581,
+          "winRate": 0.5597,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0603,
-          "winRate": 0.5403,
+          "championId": 4,
+          "pickRate": 0.0547,
+          "winRate": 0.5843,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0475,
-          "winRate": 0.5561,
+          "pickRate": 0.0474,
+          "winRate": 0.5791,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3131,
+        1058,
+        3078
+      ]
+    },
+    {
+      "championId": 360,
+      "rank": 107,
+      "rankChange": "未变化",
+      "winRate": 0.4883,
+      "pickRate": 0.0438,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0546,
+          "winRate": 0.5769,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0596,
+          "winRate": 0.5396,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0471,
+          "winRate": 0.5558,
           "rank": 3
         }
       ],
@@ -3437,24 +3437,24 @@
       "rank": 108,
       "rankChange": "未变化",
       "winRate": 0.4789,
-      "pickRate": 0.0544,
+      "pickRate": 0.0543,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0557,
-          "winRate": 0.5713,
+          "pickRate": 0.055,
+          "winRate": 0.5698,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0608,
-          "winRate": 0.5178,
+          "pickRate": 0.0602,
+          "winRate": 0.5187,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0484,
-          "winRate": 0.5676,
+          "pickRate": 0.0479,
+          "winRate": 0.5673,
           "rank": 3
         }
       ],
@@ -3465,59 +3465,27 @@
       ]
     },
     {
-      "championId": 43,
+      "championId": 888,
       "rank": 109,
       "rankChange": "上升1位",
-      "winRate": 0.4946,
-      "pickRate": 0.0322,
+      "winRate": 0.5092,
+      "pickRate": 0.0154,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0507,
-          "winRate": 0.592,
+          "pickRate": 0.0504,
+          "winRate": 0.6102,
           "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0558,
+          "winRate": 0.5633,
+          "rank": 2
         },
         {
           "championId": 236,
           "pickRate": 0.0662,
-          "winRate": 0.5304,
-          "rank": 2
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0591,
-          "winRate": 0.5373,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3163,
-        1373,
-        1068
-      ]
-    },
-    {
-      "championId": 888,
-      "rank": 110,
-      "rankChange": "上升2位",
-      "winRate": 0.51,
-      "pickRate": 0.0148,
-      "topPartners": [
-        {
-          "championId": 157,
-          "pickRate": 0.051,
-          "winRate": 0.6101,
-          "rank": 1
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0569,
-          "winRate": 0.5625,
-          "rank": 2
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.0676,
           "winRate": 0.5467,
           "rank": 3
         }
@@ -3529,92 +3497,60 @@
       ]
     },
     {
-      "championId": 902,
-      "rank": 111,
-      "rankChange": "下降2位",
-      "winRate": 0.5043,
-      "pickRate": 0.0194,
+      "championId": 43,
+      "rank": 110,
+      "rankChange": "下降1位",
+      "winRate": 0.4942,
+      "pickRate": 0.0325,
       "topPartners": [
         {
-          "championId": 236,
-          "pickRate": 0.0661,
-          "winRate": 0.5593,
+          "championId": 157,
+          "pickRate": 0.0503,
+          "winRate": 0.5921,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0609,
-          "winRate": 0.5524,
+          "championId": 236,
+          "pickRate": 0.0654,
+          "winRate": 0.531,
           "rank": 2
         },
         {
-          "championId": 157,
-          "pickRate": 0.0543,
-          "winRate": 0.5844,
+          "championId": 223,
+          "pickRate": 0.0584,
+          "winRate": 0.5388,
           "rank": 3
         }
       ],
       "items": [
         3163,
         1373,
-        1037
-      ]
-    },
-    {
-      "championId": 163,
-      "rank": 112,
-      "rankChange": "下降1位",
-      "winRate": 0.4986,
-      "pickRate": 0.0288,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.061,
-          "winRate": 0.5624,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0525,
-          "winRate": 0.597,
-          "rank": 2
-        },
-        {
-          "championId": 11,
-          "pickRate": 0.0473,
-          "winRate": 0.5698,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1004,
-        1030,
-        2132
+        1068
       ]
     },
     {
       "championId": 74,
-      "rank": 113,
-      "rankChange": "上升4位",
-      "winRate": 0.4972,
-      "pickRate": 0.0294,
+      "rank": 111,
+      "rankChange": "上升2位",
+      "winRate": 0.4981,
+      "pickRate": 0.0298,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0608,
-          "winRate": 0.554,
+          "pickRate": 0.06,
+          "winRate": 0.5563,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0489,
-          "winRate": 0.5822,
+          "pickRate": 0.0485,
+          "winRate": 0.5829,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0485,
-          "winRate": 0.5652,
+          "pickRate": 0.0478,
+          "winRate": 0.5651,
           "rank": 3
         }
       ],
@@ -3625,28 +3561,124 @@
       ]
     },
     {
-      "championId": 64,
-      "rank": 114,
-      "rankChange": "未变化",
-      "winRate": 0.4566,
-      "pickRate": 0.0713,
+      "championId": 902,
+      "rank": 112,
+      "rankChange": "下降1位",
+      "winRate": 0.5038,
+      "pickRate": 0.0196,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0568,
-          "winRate": 0.5527,
+          "championId": 236,
+          "pickRate": 0.0652,
+          "winRate": 0.5597,
           "rank": 1
         },
         {
+          "championId": 157,
+          "pickRate": 0.0538,
+          "winRate": 0.5834,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0603,
+          "winRate": 0.55,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3163,
+        1373,
+        1037
+      ]
+    },
+    {
+      "championId": 266,
+      "rank": 113,
+      "rankChange": "上升2位",
+      "winRate": 0.4696,
+      "pickRate": 0.0623,
+      "topPartners": [
+        {
           "championId": 17,
-          "pickRate": 0.063,
-          "winRate": 0.4984,
+          "pickRate": 0.0622,
+          "winRate": 0.5103,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0544,
+          "winRate": 0.555,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0517,
-          "winRate": 0.5376,
+          "pickRate": 0.0479,
+          "winRate": 0.55,
+          "rank": 3
+        }
+      ],
+      "items": [
+        2077,
+        2157,
+        1007
+      ]
+    },
+    {
+      "championId": 163,
+      "rank": 114,
+      "rankChange": "下降2位",
+      "winRate": 0.4981,
+      "pickRate": 0.0292,
+      "topPartners": [
+        {
+          "championId": 223,
+          "pickRate": 0.06,
+          "winRate": 0.5629,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0519,
+          "winRate": 0.5973,
+          "rank": 2
+        },
+        {
+          "championId": 11,
+          "pickRate": 0.0471,
+          "winRate": 0.5686,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1004,
+        1030,
+        2132
+      ]
+    },
+    {
+      "championId": 64,
+      "rank": 115,
+      "rankChange": "下降1位",
+      "winRate": 0.4566,
+      "pickRate": 0.0714,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.056,
+          "winRate": 0.5514,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0623,
+          "winRate": 0.4988,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0512,
+          "winRate": 0.5375,
           "rank": 3
         }
       ],
@@ -3657,59 +3689,59 @@
       ]
     },
     {
-      "championId": 266,
-      "rank": 115,
-      "rankChange": "未变化",
-      "winRate": 0.4688,
-      "pickRate": 0.0621,
+      "championId": 523,
+      "rank": 116,
+      "rankChange": "上升1位",
+      "winRate": 0.4869,
+      "pickRate": 0.0402,
       "topPartners": [
         {
-          "championId": 17,
+          "championId": 4,
           "pickRate": 0.0628,
-          "winRate": 0.509,
+          "winRate": 0.5417,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0551,
-          "winRate": 0.5549,
+          "championId": 17,
+          "pickRate": 0.0627,
+          "winRate": 0.5339,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0483,
-          "winRate": 0.5492,
+          "pickRate": 0.0522,
+          "winRate": 0.5491,
           "rank": 3
         }
       ],
       "items": [
-        2077,
-        1007,
-        3081
+        1336,
+        1077,
+        3131
       ]
     },
     {
       "championId": 56,
-      "rank": 116,
-      "rankChange": "下降3位",
-      "winRate": 0.4917,
-      "pickRate": 0.0333,
+      "rank": 117,
+      "rankChange": "下降1位",
+      "winRate": 0.4914,
+      "pickRate": 0.0336,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0545,
-          "winRate": 0.5745,
+          "pickRate": 0.0538,
+          "winRate": 0.5735,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0596,
-          "winRate": 0.5392,
+          "pickRate": 0.0589,
+          "winRate": 0.5385,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.046,
+          "pickRate": 0.0456,
           "winRate": 0.5661,
           "rank": 3
         }
@@ -3721,59 +3753,27 @@
       ]
     },
     {
-      "championId": 523,
-      "rank": 117,
-      "rankChange": "上升1位",
-      "winRate": 0.4866,
-      "pickRate": 0.04,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0636,
-          "winRate": 0.5436,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0632,
-          "winRate": 0.5325,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0525,
-          "winRate": 0.5492,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1336,
-        1077,
-        3131
-      ]
-    },
-    {
       "championId": 1,
       "rank": 118,
-      "rankChange": "上升1位",
+      "rankChange": "未变化",
       "winRate": 0.5,
-      "pickRate": 0.0211,
+      "pickRate": 0.0213,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0496,
-          "winRate": 0.6037,
+          "pickRate": 0.0491,
+          "winRate": 0.6026,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0605,
-          "winRate": 0.5424,
+          "pickRate": 0.0595,
+          "winRate": 0.5433,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0632,
+          "pickRate": 0.0624,
           "winRate": 0.5333,
           "rank": 3
         }
@@ -3781,32 +3781,32 @@
       "items": [
         1104,
         3150,
-        3055
+        1030
       ]
     },
     {
       "championId": 895,
       "rank": 119,
-      "rankChange": "上升2位",
-      "winRate": 0.506,
-      "pickRate": 0.0105,
+      "rankChange": "未变化",
+      "winRate": 0.5065,
+      "pickRate": 0.0107,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0534,
-          "winRate": 0.5784,
+          "pickRate": 0.0524,
+          "winRate": 0.5789,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0646,
-          "winRate": 0.5508,
+          "pickRate": 0.0634,
+          "winRate": 0.5511,
           "rank": 2
         },
         {
           "championId": 25,
-          "pickRate": 0.0483,
-          "winRate": 0.5595,
+          "pickRate": 0.0479,
+          "winRate": 0.5609,
           "rank": 3
         }
       ],
@@ -3817,124 +3817,28 @@
       ]
     },
     {
-      "championId": 77,
-      "rank": 120,
-      "rankChange": "未变化",
-      "winRate": 0.4768,
-      "pickRate": 0.0468,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0533,
-          "winRate": 0.5507,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0502,
-          "winRate": 0.5678,
-          "rank": 2
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0587,
-          "winRate": 0.5288,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1029,
-        3150,
-        1211
-      ]
-    },
-    {
-      "championId": 15,
-      "rank": 121,
-      "rankChange": "上升1位",
-      "winRate": 0.4797,
-      "pickRate": 0.0439,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0541,
-          "winRate": 0.5513,
-          "rank": 1
-        },
-        {
-          "championId": 223,
-          "pickRate": 0.0649,
-          "winRate": 0.5383,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0486,
-          "winRate": 0.551,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1336,
-        1077,
-        1225
-      ]
-    },
-    {
-      "championId": 246,
-      "rank": 122,
-      "rankChange": "下降6位",
-      "winRate": 0.49,
-      "pickRate": 0.0325,
-      "topPartners": [
-        {
-          "championId": 17,
-          "pickRate": 0.0616,
-          "winRate": 0.5401,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0563,
-          "winRate": 0.5841,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0481,
-          "winRate": 0.5726,
-          "rank": 3
-        }
-      ],
-      "items": [
-        2123,
-        3060,
-        2083
-      ]
-    },
-    {
       "championId": 267,
-      "rank": 123,
-      "rankChange": "上升1位",
-      "winRate": 0.5023,
-      "pickRate": 0.0154,
+      "rank": 120,
+      "rankChange": "上升3位",
+      "winRate": 0.5025,
+      "pickRate": 0.0155,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0542,
-          "winRate": 0.6001,
+          "pickRate": 0.0537,
+          "winRate": 0.6004,
           "rank": 1
         },
         {
-          "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.5792,
+          "championId": 223,
+          "pickRate": 0.0585,
+          "winRate": 0.5527,
           "rank": 2
         },
         {
-          "championId": 223,
-          "pickRate": 0.0592,
-          "winRate": 0.5518,
+          "championId": 4,
+          "pickRate": 0.0517,
+          "winRate": 0.5787,
           "rank": 3
         }
       ],
@@ -3945,92 +3849,188 @@
       ]
     },
     {
-      "championId": 82,
-      "rank": 124,
-      "rankChange": "上升1位",
-      "winRate": 0.4539,
-      "pickRate": 0.0675,
+      "championId": 15,
+      "rank": 121,
+      "rankChange": "未变化",
+      "winRate": 0.4804,
+      "pickRate": 0.0447,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0539,
-          "winRate": 0.5193,
+          "championId": 223,
+          "pickRate": 0.0637,
+          "winRate": 0.5402,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0628,
-          "winRate": 0.4898,
+          "championId": 4,
+          "pickRate": 0.0533,
+          "winRate": 0.5512,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0479,
-          "winRate": 0.5314,
+          "pickRate": 0.0481,
+          "winRate": 0.5516,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1336,
+        1077,
+        1225
+      ]
+    },
+    {
+      "championId": 77,
+      "rank": 122,
+      "rankChange": "下降2位",
+      "winRate": 0.4766,
+      "pickRate": 0.0468,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0526,
+          "winRate": 0.5492,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0498,
+          "winRate": 0.5685,
+          "rank": 2
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.058,
+          "winRate": 0.5291,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3150,
+        1029,
+        1211
+      ]
+    },
+    {
+      "championId": 61,
+      "rank": 123,
+      "rankChange": "上升2位",
+      "winRate": 0.4864,
+      "pickRate": 0.036,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0559,
+          "winRate": 0.5923,
+          "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0622,
+          "winRate": 0.5392,
+          "rank": 2
+        },
+        {
+          "championId": 11,
+          "pickRate": 0.0475,
+          "winRate": 0.5448,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1030,
+        3150,
+        1068
+      ]
+    },
+    {
+      "championId": 82,
+      "rank": 124,
+      "rankChange": "未变化",
+      "winRate": 0.4545,
+      "pickRate": 0.0677,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.053,
+          "winRate": 0.5201,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0621,
+          "winRate": 0.4904,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0475,
+          "winRate": 0.5325,
           "rank": 3
         }
       ],
       "items": [
         1353,
         2132,
-        1029
+        1041
       ]
     },
     {
-      "championId": 61,
+      "championId": 246,
       "rank": 125,
-      "rankChange": "下降2位",
-      "winRate": 0.4861,
-      "pickRate": 0.0359,
+      "rankChange": "下降3位",
+      "winRate": 0.4886,
+      "pickRate": 0.0325,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0565,
-          "winRate": 0.5913,
+          "championId": 17,
+          "pickRate": 0.0609,
+          "winRate": 0.5389,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.063,
-          "winRate": 0.5376,
+          "championId": 4,
+          "pickRate": 0.0557,
+          "winRate": 0.5813,
           "rank": 2
         },
         {
-          "championId": 11,
+          "championId": 157,
           "pickRate": 0.0477,
-          "winRate": 0.5458,
+          "winRate": 0.5715,
           "rank": 3
         }
       ],
       "items": [
-        3150,
-        1030,
-        1048
+        2123,
+        3060,
+        2083
       ]
     },
     {
       "championId": 32,
       "rank": 126,
       "rankChange": "未变化",
-      "winRate": 0.4811,
-      "pickRate": 0.0377,
+      "winRate": 0.4812,
+      "pickRate": 0.0381,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.5481,
+          "pickRate": 0.0516,
+          "winRate": 0.5485,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0465,
-          "winRate": 0.566,
+          "pickRate": 0.0461,
+          "winRate": 0.5658,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0634,
-          "winRate": 0.5103,
+          "pickRate": 0.0626,
+          "winRate": 0.5107,
           "rank": 3
         }
       ],
@@ -4044,25 +4044,25 @@
       "championId": 498,
       "rank": 127,
       "rankChange": "未变化",
-      "winRate": 0.479,
+      "winRate": 0.4797,
       "pickRate": 0.0415,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0549,
-          "winRate": 0.5546,
+          "pickRate": 0.0542,
+          "winRate": 0.5543,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0656,
-          "winRate": 0.5354,
+          "pickRate": 0.0648,
+          "winRate": 0.537,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0485,
-          "winRate": 0.5549,
+          "pickRate": 0.0481,
+          "winRate": 0.5561,
           "rank": 3
         }
       ],
@@ -4073,60 +4073,28 @@
       ]
     },
     {
-      "championId": 240,
-      "rank": 128,
-      "rankChange": "未变化",
-      "winRate": 0.5021,
-      "pickRate": 0.0075,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0529,
-          "winRate": 0.5769,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0575,
-          "winRate": 0.5392,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0435,
-          "winRate": 0.5749,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3131,
-        1353,
-        1181
-      ]
-    },
-    {
       "championId": 96,
-      "rank": 129,
+      "rank": 128,
       "rankChange": "上升1位",
-      "winRate": 0.4771,
-      "pickRate": 0.0397,
+      "winRate": 0.4778,
+      "pickRate": 0.0401,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0621,
-          "winRate": 0.5357,
+          "pickRate": 0.0613,
+          "winRate": 0.5378,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0516,
+          "pickRate": 0.051,
           "winRate": 0.5417,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0497,
-          "winRate": 0.5654,
+          "pickRate": 0.0494,
+          "winRate": 0.5662,
           "rank": 3
         }
       ],
@@ -4138,59 +4106,91 @@
     },
     {
       "championId": 86,
-      "rank": 130,
-      "rankChange": "下降1位",
-      "winRate": 0.4552,
-      "pickRate": 0.061,
+      "rank": 129,
+      "rankChange": "上升1位",
+      "winRate": 0.4553,
+      "pickRate": 0.0614,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0552,
-          "winRate": 0.5278,
+          "pickRate": 0.0543,
+          "winRate": 0.5279,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0621,
-          "winRate": 0.4911,
+          "pickRate": 0.0614,
+          "winRate": 0.4912,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0458,
-          "winRate": 0.5311,
+          "pickRate": 0.0455,
+          "winRate": 0.531,
           "rank": 3
         }
       ],
       "items": [
         1214,
         2111,
-        1092
+        1041
+      ]
+    },
+    {
+      "championId": 240,
+      "rank": 130,
+      "rankChange": "下降2位",
+      "winRate": 0.5017,
+      "pickRate": 0.0075,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0521,
+          "winRate": 0.5769,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0567,
+          "winRate": 0.5402,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0431,
+          "winRate": 0.5744,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3131,
+        1353,
+        1041
       ]
     },
     {
       "championId": 19,
       "rank": 131,
-      "rankChange": "上升1位",
-      "winRate": 0.4938,
-      "pickRate": 0.0201,
+      "rankChange": "未变化",
+      "winRate": 0.4926,
+      "pickRate": 0.0205,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.052,
-          "winRate": 0.576,
+          "pickRate": 0.0512,
+          "winRate": 0.5746,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0455,
-          "winRate": 0.5717,
+          "pickRate": 0.0451,
+          "winRate": 0.5699,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0578,
-          "winRate": 0.5286,
+          "pickRate": 0.0571,
+          "winRate": 0.5273,
           "rank": 3
         }
       ],
@@ -4203,26 +4203,26 @@
     {
       "championId": 92,
       "rank": 132,
-      "rankChange": "下降1位",
-      "winRate": 0.4884,
-      "pickRate": 0.0266,
+      "rankChange": "未变化",
+      "winRate": 0.4876,
+      "pickRate": 0.0269,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0543,
-          "winRate": 0.575,
+          "championId": 17,
+          "pickRate": 0.0597,
+          "winRate": 0.5293,
           "rank": 1
         },
         {
-          "championId": 17,
-          "pickRate": 0.0603,
-          "winRate": 0.5294,
+          "championId": 4,
+          "pickRate": 0.0536,
+          "winRate": 0.5732,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0451,
-          "winRate": 0.5649,
+          "pickRate": 0.0447,
+          "winRate": 0.5629,
           "rank": 3
         }
       ],
@@ -4233,124 +4233,92 @@
       ]
     },
     {
-      "championId": 421,
+      "championId": 711,
       "rank": 133,
-      "rankChange": "未变化",
-      "winRate": 0.4999,
-      "pickRate": 0.0054,
+      "rankChange": "上升1位",
+      "winRate": 0.4884,
+      "pickRate": 0.023,
       "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.5863,
-          "rank": 1
-        },
         {
           "championId": 157,
-          "pickRate": 0.049,
-          "winRate": 0.5961,
-          "rank": 2
+          "pickRate": 0.0485,
+          "winRate": 0.58,
+          "rank": 1
         },
-        {
-          "championId": 236,
-          "pickRate": 0.0608,
-          "winRate": 0.5377,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1353,
-        1152,
-        1041
-      ]
-    },
-    {
-      "championId": 711,
-      "rank": 134,
-      "rankChange": "未变化",
-      "winRate": 0.4875,
-      "pickRate": 0.0233,
-      "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0604,
-          "winRate": 0.5397,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0487,
-          "winRate": 0.5796,
+          "pickRate": 0.0595,
+          "winRate": 0.5405,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0487,
-          "winRate": 0.5591,
+          "pickRate": 0.0484,
+          "winRate": 0.5581,
           "rank": 3
         }
       ],
       "items": [
         1030,
         3150,
-        1048
+        3086
       ]
     },
     {
-      "championId": 9,
-      "rank": 135,
-      "rankChange": "未变化",
-      "winRate": 0.4737,
-      "pickRate": 0.0337,
+      "championId": 421,
+      "rank": 134,
+      "rankChange": "下降1位",
+      "winRate": 0.4982,
+      "pickRate": 0.0058,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0501,
-          "winRate": 0.5697,
+          "championId": 4,
+          "pickRate": 0.0514,
+          "winRate": 0.5849,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0602,
-          "winRate": 0.5253,
+          "championId": 157,
+          "pickRate": 0.0481,
+          "winRate": 0.5911,
           "rank": 2
         },
         {
-          "championId": 236,
-          "pickRate": 0.0622,
-          "winRate": 0.5087,
+          "championId": 17,
+          "pickRate": 0.0584,
+          "winRate": 0.5406,
           "rank": 3
         }
       ],
       "items": [
-        2132,
-        1211,
-        3118
+        1353,
+        1041,
+        1152
       ]
     },
     {
       "championId": 127,
-      "rank": 136,
-      "rankChange": "上升2位",
-      "winRate": 0.4836,
-      "pickRate": 0.0243,
+      "rank": 135,
+      "rankChange": "上升1位",
+      "winRate": 0.4837,
+      "pickRate": 0.0245,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0577,
-          "winRate": 0.5389,
+          "pickRate": 0.057,
+          "winRate": 0.5403,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0513,
-          "winRate": 0.5784,
+          "pickRate": 0.0508,
+          "winRate": 0.5772,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0649,
-          "winRate": 0.5196,
+          "pickRate": 0.0641,
+          "winRate": 0.5216,
           "rank": 3
         }
       ],
@@ -4361,92 +4329,28 @@
       ]
     },
     {
-      "championId": 164,
-      "rank": 137,
-      "rankChange": "下降1位",
-      "winRate": 0.4867,
-      "pickRate": 0.0215,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0554,
-          "winRate": 0.576,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0601,
-          "winRate": 0.5277,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0456,
-          "winRate": 0.5684,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3078,
-        1996,
-        3131
-      ]
-    },
-    {
-      "championId": 117,
-      "rank": 138,
-      "rankChange": "下降1位",
-      "winRate": 0.4923,
-      "pickRate": 0.0152,
-      "topPartners": [
-        {
-          "championId": 157,
-          "pickRate": 0.0531,
-          "winRate": 0.5874,
-          "rank": 1
-        },
-        {
-          "championId": 236,
-          "pickRate": 0.0717,
-          "winRate": 0.5373,
-          "rank": 2
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0516,
-          "winRate": 0.5721,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3163,
-        1141,
-        1037
-      ]
-    },
-    {
       "championId": 516,
-      "rank": 139,
-      "rankChange": "未变化",
-      "winRate": 0.4701,
-      "pickRate": 0.0358,
+      "rank": 136,
+      "rankChange": "上升3位",
+      "winRate": 0.4713,
+      "pickRate": 0.0359,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0524,
-          "winRate": 0.5443,
+          "pickRate": 0.0517,
+          "winRate": 0.5442,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0514,
-          "winRate": 0.5534,
+          "pickRate": 0.051,
+          "winRate": 0.555,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0583,
-          "winRate": 0.5054,
+          "pickRate": 0.0577,
+          "winRate": 0.5065,
           "rank": 3
         }
       ],
@@ -4457,28 +4361,124 @@
       ]
     },
     {
-      "championId": 254,
-      "rank": 140,
+      "championId": 117,
+      "rank": 137,
       "rankChange": "上升1位",
-      "winRate": 0.4745,
-      "pickRate": 0.0311,
+      "winRate": 0.4923,
+      "pickRate": 0.0153,
       "topPartners": [
         {
-          "championId": 17,
-          "pickRate": 0.0609,
-          "winRate": 0.5211,
+          "championId": 157,
+          "pickRate": 0.0527,
+          "winRate": 0.5884,
           "rank": 1
         },
         {
+          "championId": 236,
+          "pickRate": 0.0709,
+          "winRate": 0.5373,
+          "rank": 2
+        },
+        {
           "championId": 4,
-          "pickRate": 0.0547,
-          "winRate": 0.5534,
+          "pickRate": 0.0509,
+          "winRate": 0.5698,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3163,
+        1141,
+        1420
+      ]
+    },
+    {
+      "championId": 9,
+      "rank": 138,
+      "rankChange": "下降3位",
+      "winRate": 0.4733,
+      "pickRate": 0.034,
+      "topPartners": [
+        {
+          "championId": 157,
+          "pickRate": 0.0495,
+          "winRate": 0.5698,
+          "rank": 1
+        },
+        {
+          "championId": 223,
+          "pickRate": 0.0593,
+          "winRate": 0.5259,
+          "rank": 2
+        },
+        {
+          "championId": 236,
+          "pickRate": 0.0615,
+          "winRate": 0.5085,
+          "rank": 3
+        }
+      ],
+      "items": [
+        2132,
+        1211,
+        3150
+      ]
+    },
+    {
+      "championId": 164,
+      "rank": 139,
+      "rankChange": "下降2位",
+      "winRate": 0.4859,
+      "pickRate": 0.0221,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0543,
+          "winRate": 0.5739,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.0594,
+          "winRate": 0.528,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0464,
-          "winRate": 0.5569,
+          "pickRate": 0.045,
+          "winRate": 0.568,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3078,
+        1996,
+        3131
+      ]
+    },
+    {
+      "championId": 254,
+      "rank": 140,
+      "rankChange": "未变化",
+      "winRate": 0.4741,
+      "pickRate": 0.0316,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.0601,
+          "winRate": 0.5208,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0537,
+          "winRate": 0.5521,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0459,
+          "winRate": 0.5566,
           "rank": 3
         }
       ],
@@ -4491,26 +4491,26 @@
     {
       "championId": 113,
       "rank": 141,
-      "rankChange": "上升1位",
-      "winRate": 0.4799,
-      "pickRate": 0.0259,
+      "rankChange": "未变化",
+      "winRate": 0.4804,
+      "pickRate": 0.0262,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.5542,
+          "pickRate": 0.0517,
+          "winRate": 0.5545,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0474,
-          "winRate": 0.5614,
+          "pickRate": 0.047,
+          "winRate": 0.5619,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0592,
-          "winRate": 0.511,
+          "pickRate": 0.0585,
+          "winRate": 0.5122,
           "rank": 3
         }
       ],
@@ -4521,60 +4521,28 @@
       ]
     },
     {
-      "championId": 420,
-      "rank": 142,
-      "rankChange": "下降2位",
-      "winRate": 0.4696,
-      "pickRate": 0.0343,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0533,
-          "winRate": 0.5406,
-          "rank": 1
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0606,
-          "winRate": 0.5099,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0445,
-          "winRate": 0.5423,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1353,
-        1041,
-        1152
-      ]
-    },
-    {
       "championId": 429,
-      "rank": 143,
-      "rankChange": "未变化",
-      "winRate": 0.482,
-      "pickRate": 0.0216,
+      "rank": 142,
+      "rankChange": "上升1位",
+      "winRate": 0.4828,
+      "pickRate": 0.0218,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0533,
-          "winRate": 0.5556,
+          "pickRate": 0.0526,
+          "winRate": 0.5555,
           "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0471,
-          "winRate": 0.5565,
-          "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0649,
-          "winRate": 0.5287,
+          "pickRate": 0.064,
+          "winRate": 0.5316,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0466,
+          "winRate": 0.5583,
           "rank": 3
         }
       ],
@@ -4585,28 +4553,60 @@
       ]
     },
     {
-      "championId": 805,
-      "rank": 144,
-      "rankChange": "未变化",
-      "winRate": 0.458,
-      "pickRate": 0.0425,
+      "championId": 420,
+      "rank": 143,
+      "rankChange": "下降1位",
+      "winRate": 0.4701,
+      "pickRate": 0.034,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0532,
-          "winRate": 0.5383,
+          "pickRate": 0.0525,
+          "winRate": 0.5413,
+          "rank": 1
+        },
+        {
+          "championId": 17,
+          "pickRate": 0.06,
+          "winRate": 0.5101,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0441,
+          "winRate": 0.5426,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1353,
+        1041,
+        1152
+      ]
+    },
+    {
+      "championId": 805,
+      "rank": 144,
+      "rankChange": "未变化",
+      "winRate": 0.4585,
+      "pickRate": 0.0423,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0525,
+          "winRate": 0.5381,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0512,
+          "pickRate": 0.0506,
           "winRate": 0.5502,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0609,
-          "winRate": 0.4942,
+          "pickRate": 0.06,
+          "winRate": 0.4948,
           "rank": 3
         }
       ],
@@ -4620,25 +4620,25 @@
       "championId": 142,
       "rank": 145,
       "rankChange": "未变化",
-      "winRate": 0.4768,
-      "pickRate": 0.0263,
+      "winRate": 0.4765,
+      "pickRate": 0.0264,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0501,
-          "winRate": 0.5804,
+          "pickRate": 0.0497,
+          "winRate": 0.5812,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0509,
-          "winRate": 0.5452,
+          "pickRate": 0.0502,
+          "winRate": 0.5446,
           "rank": 2
         },
         {
           "championId": 223,
-          "pickRate": 0.0598,
-          "winRate": 0.5226,
+          "pickRate": 0.0587,
+          "winRate": 0.5232,
           "rank": 3
         }
       ],
@@ -4652,24 +4652,24 @@
       "championId": 58,
       "rank": 146,
       "rankChange": "未变化",
-      "winRate": 0.4628,
-      "pickRate": 0.0337,
+      "winRate": 0.4621,
+      "pickRate": 0.0346,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0529,
-          "winRate": 0.5417,
+          "pickRate": 0.0519,
+          "winRate": 0.5398,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0596,
-          "winRate": 0.5029,
+          "pickRate": 0.0591,
+          "winRate": 0.5015,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0451,
+          "pickRate": 0.0446,
           "winRate": 0.5329,
           "rank": 3
         }
@@ -4681,60 +4681,28 @@
       ]
     },
     {
-      "championId": 2,
-      "rank": 147,
-      "rankChange": "未变化",
-      "winRate": 0.483,
-      "pickRate": 0.0169,
-      "topPartners": [
-        {
-          "championId": 17,
-          "pickRate": 0.0592,
-          "winRate": 0.5268,
-          "rank": 1
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0524,
-          "winRate": 0.5672,
-          "rank": 2
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0434,
-          "winRate": 0.5529,
-          "rank": 3
-        }
-      ],
-      "items": [
-        3131,
-        2096,
-        1344
-      ]
-    },
-    {
       "championId": 150,
-      "rank": 148,
-      "rankChange": "未变化",
-      "winRate": 0.4589,
-      "pickRate": 0.0345,
+      "rank": 147,
+      "rankChange": "上升1位",
+      "winRate": 0.4595,
+      "pickRate": 0.0349,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0538,
-          "winRate": 0.5355,
+          "pickRate": 0.053,
+          "winRate": 0.5352,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0581,
-          "winRate": 0.4977,
+          "pickRate": 0.0571,
+          "winRate": 0.499,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0475,
-          "winRate": 0.5445,
+          "pickRate": 0.0471,
+          "winRate": 0.546,
           "rank": 3
         }
       ],
@@ -4746,59 +4714,91 @@
     },
     {
       "championId": 203,
-      "rank": 149,
-      "rankChange": "未变化",
-      "winRate": 0.4632,
-      "pickRate": 0.0319,
+      "rank": 148,
+      "rankChange": "上升1位",
+      "winRate": 0.4635,
+      "pickRate": 0.0324,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.054,
-          "winRate": 0.5389,
+          "pickRate": 0.0531,
+          "winRate": 0.5394,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0652,
-          "winRate": 0.5078,
+          "pickRate": 0.064,
+          "winRate": 0.5098,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0603,
-          "winRate": 0.5052,
+          "pickRate": 0.0595,
+          "winRate": 0.5057,
           "rank": 3
         }
       ],
       "items": [
         1071,
         1336,
-        1225
+        3131
+      ]
+    },
+    {
+      "championId": 2,
+      "rank": 149,
+      "rankChange": "下降2位",
+      "winRate": 0.4825,
+      "pickRate": 0.0171,
+      "topPartners": [
+        {
+          "championId": 17,
+          "pickRate": 0.0584,
+          "winRate": 0.5273,
+          "rank": 1
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0516,
+          "winRate": 0.5655,
+          "rank": 2
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.043,
+          "winRate": 0.554,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3131,
+        2096,
+        1344
       ]
     },
     {
       "championId": 131,
       "rank": 150,
-      "rankChange": "上升1位",
-      "winRate": 0.4657,
-      "pickRate": 0.03,
+      "rankChange": "未变化",
+      "winRate": 0.4659,
+      "pickRate": 0.0304,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0565,
-          "winRate": 0.5558,
+          "pickRate": 0.0558,
+          "winRate": 0.5552,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0518,
-          "winRate": 0.5258,
+          "pickRate": 0.0508,
+          "winRate": 0.527,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.062,
-          "winRate": 0.4973,
+          "pickRate": 0.0613,
+          "winRate": 0.4974,
           "rank": 3
         }
       ],
@@ -4811,26 +4811,26 @@
     {
       "championId": 6,
       "rank": 151,
-      "rankChange": "下降1位",
+      "rankChange": "未变化",
       "winRate": 0.4614,
-      "pickRate": 0.0316,
+      "pickRate": 0.0315,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0538,
-          "winRate": 0.5352,
+          "pickRate": 0.053,
+          "winRate": 0.5357,
           "rank": 1
         },
         {
           "championId": 17,
-          "pickRate": 0.0606,
-          "winRate": 0.4957,
+          "pickRate": 0.0599,
+          "winRate": 0.4966,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0453,
-          "winRate": 0.5307,
+          "pickRate": 0.0449,
+          "winRate": 0.5311,
           "rank": 3
         }
       ],
@@ -4841,60 +4841,28 @@
       ]
     },
     {
-      "championId": 268,
+      "championId": 84,
       "rank": 152,
       "rankChange": "上升1位",
-      "winRate": 0.4702,
-      "pickRate": 0.0236,
+      "winRate": 0.4393,
+      "pickRate": 0.0373,
       "topPartners": [
         {
-          "championId": 223,
-          "pickRate": 0.0636,
-          "winRate": 0.5219,
+          "championId": 4,
+          "pickRate": 0.0525,
+          "winRate": 0.5142,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0521,
-          "winRate": 0.5594,
+          "pickRate": 0.0481,
+          "winRate": 0.5295,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0488,
-          "winRate": 0.5338,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1129,
-        1104,
-        2009
-      ]
-    },
-    {
-      "championId": 84,
-      "rank": 153,
-      "rankChange": "下降1位",
-      "winRate": 0.4391,
-      "pickRate": 0.0376,
-      "topPartners": [
-        {
-          "championId": 4,
-          "pickRate": 0.0532,
-          "winRate": 0.514,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0483,
-          "winRate": 0.5292,
-          "rank": 2
-        },
-        {
-          "championId": 17,
-          "pickRate": 0.0601,
-          "winRate": 0.4738,
+          "championId": 236,
+          "pickRate": 0.0623,
+          "winRate": 0.4693,
           "rank": 3
         }
       ],
@@ -4905,28 +4873,60 @@
       ]
     },
     {
-      "championId": 72,
-      "rank": 154,
-      "rankChange": "未变化",
-      "winRate": 0.4759,
-      "pickRate": 0.0193,
+      "championId": 268,
+      "rank": 153,
+      "rankChange": "下降1位",
+      "winRate": 0.4707,
+      "pickRate": 0.024,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0547,
-          "winRate": 0.5553,
+          "championId": 223,
+          "pickRate": 0.0624,
+          "winRate": 0.5241,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0476,
+          "pickRate": 0.0514,
           "winRate": 0.5604,
           "rank": 2
         },
         {
+          "championId": 4,
+          "pickRate": 0.0478,
+          "winRate": 0.5332,
+          "rank": 3
+        }
+      ],
+      "items": [
+        1129,
+        1104,
+        2009
+      ]
+    },
+    {
+      "championId": 72,
+      "rank": 154,
+      "rankChange": "未变化",
+      "winRate": 0.4761,
+      "pickRate": 0.0198,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0536,
+          "winRate": 0.5555,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0471,
+          "winRate": 0.5609,
+          "rank": 2
+        },
+        {
           "championId": 17,
-          "pickRate": 0.0609,
-          "winRate": 0.5162,
+          "pickRate": 0.0602,
+          "winRate": 0.5167,
           "rank": 3
         }
       ],
@@ -4940,32 +4940,32 @@
       "championId": 497,
       "rank": 155,
       "rankChange": "未变化",
-      "winRate": 0.4812,
+      "winRate": 0.4813,
       "pickRate": 0.0097,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0592,
-          "winRate": 0.5777,
+          "pickRate": 0.0586,
+          "winRate": 0.578,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0528,
-          "winRate": 0.5545,
+          "pickRate": 0.052,
+          "winRate": 0.5536,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.067,
-          "winRate": 0.52,
+          "pickRate": 0.0662,
+          "winRate": 0.5205,
           "rank": 3
         }
       ],
       "items": [
         1353,
-        2077,
-        3049
+        3263,
+        2077
       ]
     },
     {
@@ -4973,56 +4973,56 @@
       "rank": 156,
       "rankChange": "未变化",
       "winRate": 0.4524,
-      "pickRate": 0.0317,
+      "pickRate": 0.0323,
       "topPartners": [
         {
           "championId": 17,
-          "pickRate": 0.0607,
-          "winRate": 0.5017,
+          "pickRate": 0.0601,
+          "winRate": 0.5007,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0554,
-          "winRate": 0.5414,
+          "pickRate": 0.0544,
+          "winRate": 0.5406,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0459,
-          "winRate": 0.5235,
+          "pickRate": 0.0454,
+          "winRate": 0.5246,
           "rank": 3
         }
       ],
       "items": [
-        1104,
         1007,
-        1048
+        1048,
+        2083
       ]
     },
     {
       "championId": 201,
       "rank": 157,
-      "rankChange": "上升1位",
-      "winRate": 0.4698,
-      "pickRate": 0.0174,
+      "rankChange": "未变化",
+      "winRate": 0.4705,
+      "pickRate": 0.0177,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.05,
-          "winRate": 0.5658,
+          "pickRate": 0.0496,
+          "winRate": 0.5653,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.055,
-          "winRate": 0.5373,
+          "pickRate": 0.0538,
+          "winRate": 0.5398,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0737,
-          "winRate": 0.5016,
+          "pickRate": 0.0727,
+          "winRate": 0.5035,
           "rank": 3
         }
       ],
@@ -5035,26 +5035,26 @@
     {
       "championId": 518,
       "rank": 158,
-      "rankChange": "下降1位",
-      "winRate": 0.4587,
-      "pickRate": 0.024,
+      "rankChange": "未变化",
+      "winRate": 0.4588,
+      "pickRate": 0.0242,
       "topPartners": [
         {
-          "championId": 157,
-          "pickRate": 0.0538,
-          "winRate": 0.5613,
+          "championId": 223,
+          "pickRate": 0.0595,
+          "winRate": 0.5147,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0605,
-          "winRate": 0.5129,
+          "championId": 157,
+          "pickRate": 0.0532,
+          "winRate": 0.5604,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0478,
-          "winRate": 0.5275,
+          "pickRate": 0.0477,
+          "winRate": 0.5264,
           "rank": 3
         }
       ],
@@ -5068,25 +5068,57 @@
       "championId": 60,
       "rank": 159,
       "rankChange": "未变化",
-      "winRate": 0.4733,
-      "pickRate": 0.0108,
+      "winRate": 0.4734,
+      "pickRate": 0.011,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0492,
-          "winRate": 0.5649,
+          "pickRate": 0.0488,
+          "winRate": 0.566,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0487,
-          "winRate": 0.5521,
+          "pickRate": 0.0479,
+          "winRate": 0.5507,
           "rank": 2
         },
         {
-          "championId": 11,
-          "pickRate": 0.0476,
-          "winRate": 0.5209,
+          "championId": 223,
+          "pickRate": 0.0552,
+          "winRate": 0.5109,
+          "rank": 3
+        }
+      ],
+      "items": [
+        3150,
+        2132,
+        1030
+      ]
+    },
+    {
+      "championId": 7,
+      "rank": 160,
+      "rankChange": "上升1位",
+      "winRate": 0.4383,
+      "pickRate": 0.0301,
+      "topPartners": [
+        {
+          "championId": 223,
+          "pickRate": 0.0575,
+          "winRate": 0.4837,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0485,
+          "winRate": 0.5356,
+          "rank": 2
+        },
+        {
+          "championId": 4,
+          "pickRate": 0.0487,
+          "winRate": 0.5108,
           "rank": 3
         }
       ],
@@ -5098,91 +5130,91 @@
     },
     {
       "championId": 20,
-      "rank": 160,
-      "rankChange": "上升1位",
+      "rank": 161,
+      "rankChange": "下降1位",
       "winRate": 0.4604,
-      "pickRate": 0.0211,
+      "pickRate": 0.0214,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0498,
-          "winRate": 0.5528,
+          "pickRate": 0.0493,
+          "winRate": 0.5537,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.0505,
-          "winRate": 0.5295,
+          "pickRate": 0.0498,
+          "winRate": 0.5288,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0626,
-          "winRate": 0.4946,
+          "pickRate": 0.0619,
+          "winRate": 0.4939,
           "rank": 3
         }
       ],
       "items": [
         3150,
         1353,
-        1238
+        2131
       ]
     },
     {
-      "championId": 7,
-      "rank": 161,
-      "rankChange": "下降1位",
-      "winRate": 0.438,
-      "pickRate": 0.0299,
+      "championId": 432,
+      "rank": 162,
+      "rankChange": "上升2位",
+      "winRate": 0.4738,
+      "pickRate": 0.0088,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0583,
-          "winRate": 0.4828,
+          "pickRate": 0.0579,
+          "winRate": 0.5289,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0489,
-          "winRate": 0.534,
+          "pickRate": 0.048,
+          "winRate": 0.5786,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0494,
-          "winRate": 0.5124,
+          "pickRate": 0.0497,
+          "winRate": 0.5349,
           "rank": 3
         }
       ],
       "items": [
-        3150,
-        2132,
-        1048
+        1129,
+        2009,
+        3078
       ]
     },
     {
       "championId": 133,
-      "rank": 162,
-      "rankChange": "未变化",
-      "winRate": 0.4671,
-      "pickRate": 0.0169,
+      "rank": 163,
+      "rankChange": "下降1位",
+      "winRate": 0.4673,
+      "pickRate": 0.0173,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0521,
-          "winRate": 0.5387,
+          "pickRate": 0.0514,
+          "winRate": 0.5398,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0627,
-          "winRate": 0.5085,
+          "pickRate": 0.0616,
+          "winRate": 0.5095,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0461,
-          "winRate": 0.5433,
+          "pickRate": 0.0457,
+          "winRate": 0.5443,
           "rank": 3
         }
       ],
@@ -5194,27 +5226,27 @@
     },
     {
       "championId": 166,
-      "rank": 163,
-      "rankChange": "上升1位",
-      "winRate": 0.451,
-      "pickRate": 0.0262,
+      "rank": 164,
+      "rankChange": "下降1位",
+      "winRate": 0.4509,
+      "pickRate": 0.0265,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0542,
-          "winRate": 0.5387,
+          "pickRate": 0.0534,
+          "winRate": 0.5369,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0615,
+          "pickRate": 0.0607,
           "winRate": 0.4958,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0579,
-          "winRate": 0.4958,
+          "pickRate": 0.0572,
+          "winRate": 0.4956,
           "rank": 3
         }
       ],
@@ -5225,92 +5257,28 @@
       ]
     },
     {
-      "championId": 432,
-      "rank": 164,
-      "rankChange": "下降1位",
-      "winRate": 0.4733,
-      "pickRate": 0.0087,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.0585,
-          "winRate": 0.5282,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0483,
-          "winRate": 0.5778,
-          "rank": 2
-        },
-        {
-          "championId": 4,
-          "pickRate": 0.0506,
-          "winRate": 0.5353,
-          "rank": 3
-        }
-      ],
-      "items": [
-        1129,
-        2009,
-        3078
-      ]
-    },
-    {
-      "championId": 69,
-      "rank": 165,
-      "rankChange": "未变化",
-      "winRate": 0.4582,
-      "pickRate": 0.0194,
-      "topPartners": [
-        {
-          "championId": 223,
-          "pickRate": 0.061,
-          "winRate": 0.5111,
-          "rank": 1
-        },
-        {
-          "championId": 157,
-          "pickRate": 0.0494,
-          "winRate": 0.5535,
-          "rank": 2
-        },
-        {
-          "championId": 11,
-          "pickRate": 0.0478,
-          "winRate": 0.5193,
-          "rank": 3
-        }
-      ],
-      "items": [
-        2132,
-        2054,
-        1133
-      ]
-    },
-    {
       "championId": 221,
-      "rank": 166,
-      "rankChange": "未变化",
-      "winRate": 0.4602,
-      "pickRate": 0.0174,
+      "rank": 165,
+      "rankChange": "上升1位",
+      "winRate": 0.4611,
+      "pickRate": 0.0176,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0536,
-          "winRate": 0.5375,
+          "pickRate": 0.0529,
+          "winRate": 0.5386,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0656,
-          "winRate": 0.5173,
+          "pickRate": 0.0647,
+          "winRate": 0.5189,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0474,
-          "winRate": 0.5302,
+          "pickRate": 0.047,
+          "winRate": 0.5309,
           "rank": 3
         }
       ],
@@ -5321,28 +5289,60 @@
       ]
     },
     {
-      "championId": 33,
-      "rank": 167,
-      "rankChange": "未变化",
-      "winRate": 0.4617,
-      "pickRate": 0.0151,
+      "championId": 69,
+      "rank": 166,
+      "rankChange": "下降1位",
+      "winRate": 0.4586,
+      "pickRate": 0.0196,
       "topPartners": [
         {
-          "championId": 4,
-          "pickRate": 0.0515,
-          "winRate": 0.5347,
+          "championId": 223,
+          "pickRate": 0.0602,
+          "winRate": 0.5121,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0469,
-          "winRate": 0.5455,
+          "pickRate": 0.0489,
+          "winRate": 0.5545,
+          "rank": 2
+        },
+        {
+          "championId": 11,
+          "pickRate": 0.0475,
+          "winRate": 0.5187,
+          "rank": 3
+        }
+      ],
+      "items": [
+        2132,
+        2054,
+        1133
+      ]
+    },
+    {
+      "championId": 33,
+      "rank": 167,
+      "rankChange": "未变化",
+      "winRate": 0.4616,
+      "pickRate": 0.0153,
+      "topPartners": [
+        {
+          "championId": 4,
+          "pickRate": 0.0507,
+          "winRate": 0.5354,
+          "rank": 1
+        },
+        {
+          "championId": 157,
+          "pickRate": 0.0464,
+          "winRate": 0.5451,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0634,
-          "winRate": 0.4907,
+          "pickRate": 0.0627,
+          "winRate": 0.4919,
           "rank": 3
         }
       ],
@@ -5356,25 +5356,25 @@
       "championId": 85,
       "rank": 168,
       "rankChange": "未变化",
-      "winRate": 0.4533,
-      "pickRate": 0.0195,
+      "winRate": 0.4529,
+      "pickRate": 0.0198,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0495,
-          "winRate": 0.5546,
+          "pickRate": 0.049,
+          "winRate": 0.5538,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0566,
-          "winRate": 0.5007,
+          "pickRate": 0.0558,
+          "winRate": 0.5011,
           "rank": 2
         },
         {
           "championId": 4,
-          "pickRate": 0.0477,
-          "winRate": 0.5157,
+          "pickRate": 0.0471,
+          "winRate": 0.515,
           "rank": 3
         }
       ],
@@ -5388,25 +5388,25 @@
       "championId": 28,
       "rank": 169,
       "rankChange": "未变化",
-      "winRate": 0.462,
-      "pickRate": 0.0107,
+      "winRate": 0.4624,
+      "pickRate": 0.0106,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0476,
-          "winRate": 0.5616,
+          "pickRate": 0.0474,
+          "winRate": 0.5611,
           "rank": 1
         },
         {
-          "championId": 223,
-          "pickRate": 0.0589,
-          "winRate": 0.5014,
+          "championId": 4,
+          "pickRate": 0.0517,
+          "winRate": 0.524,
           "rank": 2
         },
         {
-          "championId": 4,
-          "pickRate": 0.0525,
-          "winRate": 0.5238,
+          "championId": 223,
+          "pickRate": 0.0581,
+          "winRate": 0.5035,
           "rank": 3
         }
       ],
@@ -5420,25 +5420,25 @@
       "championId": 897,
       "rank": 170,
       "rankChange": "未变化",
-      "winRate": 0.4433,
-      "pickRate": 0.0205,
+      "winRate": 0.444,
+      "pickRate": 0.0206,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0533,
+          "pickRate": 0.0526,
           "winRate": 0.5254,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0461,
-          "winRate": 0.5205,
+          "pickRate": 0.0458,
+          "winRate": 0.5217,
           "rank": 2
         },
         {
           "championId": 17,
-          "pickRate": 0.0604,
-          "winRate": 0.4811,
+          "pickRate": 0.0597,
+          "winRate": 0.4826,
           "rank": 3
         }
       ],
@@ -5452,25 +5452,25 @@
       "championId": 154,
       "rank": 171,
       "rankChange": "未变化",
-      "winRate": 0.4604,
-      "pickRate": 0.0145,
+      "winRate": 0.4608,
+      "pickRate": 0.0147,
       "topPartners": [
         {
           "championId": 157,
-          "pickRate": 0.0515,
+          "pickRate": 0.051,
           "winRate": 0.5578,
           "rank": 1
         },
         {
           "championId": 4,
-          "pickRate": 0.051,
-          "winRate": 0.5302,
+          "pickRate": 0.0505,
+          "winRate": 0.5296,
           "rank": 2
         },
         {
           "championId": 236,
-          "pickRate": 0.0619,
-          "winRate": 0.4911,
+          "pickRate": 0.0611,
+          "winRate": 0.4909,
           "rank": 3
         }
       ],
@@ -5484,57 +5484,57 @@
       "championId": 34,
       "rank": 172,
       "rankChange": "未变化",
-      "winRate": 0.4458,
-      "pickRate": 0.0195,
+      "winRate": 0.4463,
+      "pickRate": 0.0198,
       "topPartners": [
         {
           "championId": 223,
-          "pickRate": 0.0583,
-          "winRate": 0.5081,
+          "pickRate": 0.0574,
+          "winRate": 0.5091,
           "rank": 1
         },
         {
           "championId": 157,
-          "pickRate": 0.0488,
-          "winRate": 0.5385,
+          "pickRate": 0.0484,
+          "winRate": 0.5404,
           "rank": 2
         },
         {
           "championId": 11,
-          "pickRate": 0.0476,
-          "winRate": 0.5232,
+          "pickRate": 0.0473,
+          "winRate": 0.5221,
           "rank": 3
         }
       ],
       "items": [
         2129,
-        1044,
-        1194
+        1194,
+        3086
       ]
     },
     {
       "championId": 83,
       "rank": 173,
       "rankChange": "未变化",
-      "winRate": 0.4523,
-      "pickRate": 0.006,
+      "winRate": 0.453,
+      "pickRate": 0.0061,
       "topPartners": [
         {
           "championId": 4,
-          "pickRate": 0.0506,
-          "winRate": 0.5369,
+          "pickRate": 0.0497,
+          "winRate": 0.535,
           "rank": 1
         },
         {
           "championId": 223,
-          "pickRate": 0.0554,
-          "winRate": 0.4906,
+          "pickRate": 0.0546,
+          "winRate": 0.4905,
           "rank": 2
         },
         {
           "championId": 157,
-          "pickRate": 0.0436,
-          "winRate": 0.5274,
+          "pickRate": 0.0435,
+          "winRate": 0.5297,
           "rank": 3
         }
       ],
